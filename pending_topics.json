@@ -69,6 +69,30 @@
       "why_important": "扩展Agent能力范围",
       "added_date": "2026-06-19",
       "status": "active"
+    },
+    {
+      "id": 208,
+      "term": "主权AI (Sovereign AI)",
+      "brief": "指一个国家对AI系统及其数据拥有完全控制权，以保障国家安全和技术自主。",
+      "source": "Agent1-早报-2026-06-19",
+      "added_date": "2026-06-19",
+      "status": "pending"
+    },
+    {
+      "id": 209,
+      "term": "代理式协作AI (Agentic Collaborative AI)",
+      "brief": "指能够自主执行任务并相互协作的AI代理系统，旨在为企业提供更智能的工作支持。",
+      "source": "Agent1-早报-2026-06-19",
+      "added_date": "2026-06-19",
+      "status": "pending"
+    },
+    {
+      "id": 210,
+      "term": "Fable 5级别 (Fable 5 level)",
+      "brief": "Anthropic公司提出的一种AI模型能力等级，表示模型达到特定高水平的智能和性能。",
+      "source": "Agent1-早报-2026-06-19",
+      "added_date": "2026-06-19",
+      "status": "pending"
     }
   ]
 }
