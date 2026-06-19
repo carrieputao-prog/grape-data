@@ -7,7 +7,7 @@
       "brief": "指的是最先进、能力最强大、开发成本最高的AI模型，它们往往拥有新兴能力，可能带来系统性风险。",
       "source": "Agent1-早报-2026-06-19",
       "added_date": "2026-06-19",
-      "status": "pending"
+      "status": "active"
     },
     {
       "id": 201,
@@ -15,7 +15,7 @@
       "brief": "描述从设计之初就深度融合AI技术，以优化性能、自动化管理并提供智能服务的新一代网络架构。",
       "source": "Agent1-早报-2026-06-19",
       "added_date": "2026-06-19",
-      "status": "pending"
+      "status": "active"
     },
     {
       "id": 202,
@@ -23,7 +23,7 @@
       "brief": "指代像Anthropic Mythos系列那样，能力极为强大且可能具有新兴能力的尖端AI模型分类。",
       "source": "Agent1-早报-2026-06-19",
       "added_date": "2026-06-19",
-      "status": "pending"
+      "status": "active"
     },
     {
       "id": 191,
@@ -32,7 +32,7 @@
       "source": "清华姜学长 B站",
       "why_important": "描述新角色或方法论",
       "added_date": "2026-06-19",
-      "status": "pending"
+      "status": "active"
     },
     {
       "id": 192,
@@ -68,7 +68,7 @@
       "source": "arXiv",
       "why_important": "扩展Agent能力范围",
       "added_date": "2026-06-19",
-      "status": "pending"
+      "status": "active"
     }
   ]
 }
