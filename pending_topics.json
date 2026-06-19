@@ -1,0 +1,29 @@
+{
+  "last_updated": "2026-06-19",
+  "pending": [
+    {
+      "id": 200,
+      "term": "前沿AI模型 (Frontier AI Models)",
+      "brief": "指的是最先进、能力最强大、开发成本最高的AI模型，它们往往拥有新兴能力，可能带来系统性风险。",
+      "source": "Agent1-早报-2026-06-19",
+      "added_date": "2026-06-19",
+      "status": "pending"
+    },
+    {
+      "id": 201,
+      "term": "AI原生网络 (AI-native networks)",
+      "brief": "描述从设计之初就深度融合AI技术，以优化性能、自动化管理并提供智能服务的新一代网络架构。",
+      "source": "Agent1-早报-2026-06-19",
+      "added_date": "2026-06-19",
+      "status": "pending"
+    },
+    {
+      "id": 202,
+      "term": "Mythos级AI模型 (Mythos-level AI model)",
+      "brief": "指代像Anthropic Mythos系列那样，能力极为强大且可能具有新兴能力的尖端AI模型分类。",
+      "source": "Agent1-早报-2026-06-19",
+      "added_date": "2026-06-19",
+      "status": "pending"
+    }
+  ]
+}
