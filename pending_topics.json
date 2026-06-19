@@ -24,6 +24,51 @@
       "source": "Agent1-早报-2026-06-19",
       "added_date": "2026-06-19",
       "status": "pending"
+    },
+    {
+      "id": 191,
+      "term": "Loop Engineer (循环工程师)",
+      "brief": "指设计和优化AI系统中循环反馈机制的工程师或方法论。",
+      "source": "清华姜学长 B站",
+      "why_important": "描述新角色或方法论",
+      "added_date": "2026-06-19",
+      "status": "pending"
+    },
+    {
+      "id": 192,
+      "term": "Value-Implicit Policy Optimization (VIMPO)",
+      "brief": "一种为LLM设计的无批评者（critic-free）策略优化方法，从KL-正则化强化学习的优化条件中导出。",
+      "source": "arXiv",
+      "why_important": "新型RL优化技术",
+      "added_date": "2026-06-19",
+      "status": "pending"
+    },
+    {
+      "id": 193,
+      "term": "Misfired Alignment (误触对齐)",
+      "brief": "描述LLM在文脉中明确证据支持下，仍因对齐诱导的改变而拒绝保证结论的失败模式。",
+      "source": "arXiv",
+      "why_important": "揭示LLM新安全挑战",
+      "added_date": "2026-06-19",
+      "status": "pending"
+    },
+    {
+      "id": 194,
+      "term": "Overprivileged Tool Selection (越权工具选择)",
+      "brief": "指AI智能体在存在足够低权限替代方案的情况下，仍选择或升级使用高权限工具的安全问题。",
+      "source": "arXiv",
+      "why_important": "突出Agent安全漏洞",
+      "added_date": "2026-06-19",
+      "status": "pending"
+    },
+    {
+      "id": 195,
+      "term": "Long-Lifecycle Agents (长生命周期智能体)",
+      "brief": "指能够持续探索环境并解决长期任务序列，具有跨领域泛化能力的LLM驱动AI智能体。",
+      "source": "arXiv",
+      "why_important": "扩展Agent能力范围",
+      "added_date": "2026-06-19",
+      "status": "pending"
     }
   ]
 }
