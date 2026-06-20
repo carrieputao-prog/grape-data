@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-19",
+  "last_updated": "2026-06-20",
   "pending": [
     {
       "id": 200,
@@ -92,6 +92,22 @@
       "brief": "Anthropic公司提出的一种AI模型能力等级，表示模型达到特定高水平的智能和性能。",
       "source": "Agent1-早报-2026-06-19",
       "added_date": "2026-06-19",
+      "status": "pending"
+    },
+    {
+      "id": 211,
+      "term": "AI代理 (AI Agent)",
+      "brief": "它能自主规划、执行一系列任务，就像一个能独立完成工作的智能助手。",
+      "source": "Agent1-早报-2026-06-20",
+      "added_date": "2026-06-20",
+      "status": "pending"
+    },
+    {
+      "id": 212,
+      "term": "具身智能 (embodied intelligence)",
+      "brief": "指具备物理形态，能够与现实世界进行交互，并在此过程中学习、适应和执行任务的AI系统。",
+      "source": "Agent1-早报-2026-06-20",
+      "added_date": "2026-06-20",
       "status": "pending"
     }
   ]
