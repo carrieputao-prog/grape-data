@@ -154,6 +154,22 @@
       "why_important": "优化LLM性能",
       "added_date": "2026-06-20",
       "status": "pending"
+    },
+    {
+      "id": 218,
+      "term": "Agentic AI (智能体AI)",
+      "brief": "一种让AI不再只是被动回应指令，而是能主动理解目标、规划步骤、利用工具并执行任务的智能体模式。",
+      "source": "今日AI小知识-早报-2026-06-20",
+      "added_date": "2026-06-20",
+      "status": "pending"
+    },
+    {
+      "id": 219,
+      "term": "AI一人公司 (AI one-person company)",
+      "brief": "指个人创业者利用AI技术和平台要素实现独立运营，完成传统上需团队协作才能完成的任务的创新公司模式。",
+      "source": "国内新闻8-早报-2026-06-20",
+      "added_date": "2026-06-20",
+      "status": "pending"
     }
   ]
 }
