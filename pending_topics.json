@@ -109,6 +109,51 @@
       "source": "Agent1-早报-2026-06-20",
       "added_date": "2026-06-20",
       "status": "pending"
+    },
+    {
+      "id": 196,
+      "term": "连接点框架 (Connect the Dots framework, CoD)",
+      "brief": "一种用于大型语言模型(LLM)智能体解决长序列任务的框架。",
+      "source": "arXiv",
+      "why_important": "增强智能体能力",
+      "added_date": "2026-06-20",
+      "status": "pending"
+    },
+    {
+      "id": 197,
+      "term": "VIMPO (无价值函数隐式策略优化 / Value-function-free Implicit Policy Optimization)",
+      "brief": "一种新的无批评者策略优化方法，源自KL正则化强化学习的最优条件。",
+      "source": "arXiv",
+      "why_important": "提升强化学习效率",
+      "added_date": "2026-06-20",
+      "status": "pending"
+    },
+    {
+      "id": 198,
+      "term": "连续测试时自适应 (Continuous Test-Time Adaptation, CTTA)",
+      "brief": "旨在通过在线适应来维持模型性能，无需标签数据，以应对不断变化的目标域。",
+      "source": "arXiv",
+      "why_important": "提高模型鲁棒性",
+      "added_date": "2026-06-20",
+      "status": "pending"
+    },
+    {
+      "id": 199,
+      "term": "基于超图的隐式语义推理框架 (Hypergraph-based Implicit Semantic Reasoning, HISR framework)",
+      "brief": "一种利用超图来表示语义知识实体间复杂多义关系的框架。",
+      "source": "arXiv",
+      "why_important": "提升语义理解能力",
+      "added_date": "2026-06-20",
+      "status": "pending"
+    },
+    {
+      "id": 200,
+      "term": "独立组合词元框架 (Independent Combinatorial Tokens, ICT framework)",
+      "brief": "一种将优化重点从标量不确定性转移到词元logit分布特性的框架。",
+      "source": "arXiv",
+      "why_important": "优化LLM性能",
+      "added_date": "2026-06-20",
+      "status": "pending"
     }
   ]
 }
