@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-21",
+  "last_updated": "2026-06-22",
   "pending": [
     {
       "id": 200,
@@ -185,6 +185,30 @@
       "brief": "指AI模型处理非常长的代码上下文和多步骤复杂编程任务的能力。",
       "source": "中国AI里程碑！智谱GLM 5.2模型智能指数冲入全球前三-早报-2026-06-21",
       "added_date": "2026-06-21",
+      "status": "pending"
+    },
+    {
+      "id": 222,
+      "term": "Agentic AI (Agentic AI)",
+      "brief": "Agentic AI 就像一个智能助理，它不只回答问题，还能为自己设定目标、制定计划，并主动在现实或数字世界中采取行动来实现这些目标，甚至在过程中学习并纠正错误。",
+      "source": "Agent1-早报-2026-06-22",
+      "added_date": "2026-06-22",
+      "status": "pending"
+    },
+    {
+      "id": 223,
+      "term": "世界模型 (World Model)",
+      "brief": "一种AI模型，通过构建对世界的内部模拟或表征，使AI能够理解、预测并规划在复杂环境中的行动，常用于具身智能和通用AI领域。",
+      "source": "Agent1-早报-2026-06-22",
+      "added_date": "2026-06-22",
+      "status": "pending"
+    },
+    {
+      "id": 224,
+      "term": "具身智能 (Embodied AI)",
+      "brief": "指具有物理身体，能够感知并与现实世界进行交互的AI系统，如人形机器人，强调AI在物理世界中的行动能力和学习。",
+      "source": "Agent1-早报-2026-06-22",
+      "added_date": "2026-06-22",
       "status": "pending"
     }
   ]
