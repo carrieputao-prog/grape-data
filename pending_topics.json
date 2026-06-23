@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-22",
+  "last_updated": "2026-06-24",
   "pending": [
     {
       "id": 200,
@@ -209,6 +209,22 @@
       "brief": "指具有物理身体，能够感知并与现实世界进行交互的AI系统，如人形机器人，强调AI在物理世界中的行动能力和学习。",
       "source": "Agent1-早报-2026-06-22",
       "added_date": "2026-06-22",
+      "status": "pending"
+    },
+    {
+      "id": 225,
+      "term": "物理AI (Physical AI)",
+      "brief": "指AI发展从文本处理转向对真实物理世界的理解、模拟和行动，以求进入更广阔的实体经济应用场景。",
+      "source": "Agent1-早报-2026-06-23",
+      "added_date": "2026-06-24",
+      "status": "pending"
+    },
+    {
+      "id": 226,
+      "term": "结构化数据大模型 (Structured Data Large Model)",
+      "brief": "专攻表格、时序、图拓扑等结构化数据，并实现AI因果识别能力的大模型，旨在大幅提升工业领域的决策与预测能力。",
+      "source": "Agent1-早报-2026-06-23",
+      "added_date": "2026-06-24",
       "status": "pending"
     }
   ]
