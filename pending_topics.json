@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-24",
+  "last_updated": "2026-06-25",
   "pending": [
     {
       "id": 200,
@@ -225,6 +225,22 @@
       "brief": "专攻表格、时序、图拓扑等结构化数据，并实现AI因果识别能力的大模型，旨在大幅提升工业领域的决策与预测能力。",
       "source": "Agent1-早报-2026-06-23",
       "added_date": "2026-06-24",
+      "status": "pending"
+    },
+    {
+      "id": 227,
+      "term": "AI可信一体机 (AI Trusted All-in-one Machine)",
+      "brief": "一种为AI智能体提供硬件级全栈可信身份管理系统，以应对智能体身份不明等安全挑战。",
+      "source": "Agent1-早报-2026-06-25",
+      "added_date": "2026-06-25",
+      "status": "pending"
+    },
+    {
+      "id": 228,
+      "term": "计算机使用工具 (Computer Use Tool)",
+      "brief": "谷歌Gemini模型推出的一项工具，旨在提升大型语言模型与浏览器、移动和桌面等各种计算环境的交互能力。",
+      "source": "Agent1-早报-2026-06-25",
+      "added_date": "2026-06-25",
       "status": "pending"
     }
   ]
