@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-25",
+  "last_updated": "2026-06-26",
   "pending": [
     {
       "id": 200,
@@ -241,6 +241,14 @@
       "brief": "谷歌Gemini模型推出的一项工具，旨在提升大型语言模型与浏览器、移动和桌面等各种计算环境的交互能力。",
       "source": "Agent1-早报-2026-06-25",
       "added_date": "2026-06-25",
+      "status": "pending"
+    },
+    {
+      "id": 229,
+      "term": "智能体 (AI Agent)",
+      "brief": "指具备目标、感知、思考和行动能力的智能程序，能自主完成任务或与人协作。",
+      "source": "Agent1-早报-2026-06-26",
+      "added_date": "2026-06-26",
       "status": "pending"
     }
   ]
