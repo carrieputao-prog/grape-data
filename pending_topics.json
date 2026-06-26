@@ -250,6 +250,56 @@
       "source": "Agent1-早报-2026-06-26",
       "added_date": "2026-06-26",
       "status": "pending"
+    },
+    {
+      "id": 196,
+      "term": "OpenAI Jalapeño (LLM-Optimized Inference Chip)",
+      "module": "工程与应用层",
+      "brief": "OpenAI推出的首款专为LLM推理优化的定制芯片，旨在提高性能和降低成本。",
+      "source": "OpenAI, Latent Space, Future Tools, AI Weekly",
+      "why_important": "提升模型推理效率",
+      "added_date": "2026-06-26",
+      "status": "pending"
+    },
+    {
+      "id": 197,
+      "term": "Agentic Resource Discovery Specification (ARDS)",
+      "module": "工程与应用层",
+      "brief": "Google推出的开放标准，使AI智能体能够自主发现、理解并与网络资源交互。",
+      "source": "Crescendo.ai",
+      "why_important": "增强智能体互操作性",
+      "added_date": "2026-06-26",
+      "status": "pending"
+    },
+    {
+      "id": 198,
+      "term": "Self-Improving Agents (SIA)",
+      "module": "前沿与趋势层",
+      "brief": "能够根据运行结果自我修改和改进代码或逻辑的智能体。",
+      "source": "AlphaSignal AI",
+      "why_important": "智能体自主进化",
+      "added_date": "2026-06-26",
+      "status": "pending"
+    },
+    {
+      "id": 199,
+      "term": "Meta-Harness (元线束)",
+      "module": "工程与应用层",
+      "brief": "一种用于结合、控制和共享AI智能体的框架或工具，以管理复杂智能体系统。",
+      "source": "Latent Space, TLDR AI",
+      "why_important": "复杂智能体管理",
+      "added_date": "2026-06-26",
+      "status": "pending"
+    },
+    {
+      "id": 200,
+      "term": "AI-driven Attacks (AI驱动攻击)",
+      "module": "前沿与趋势层",
+      "brief": "利用AI技术自动化发现和利用安全漏洞的新型网络攻击方式。",
+      "source": "Crescendo.ai",
+      "why_important": "新兴网络安全威胁",
+      "added_date": "2026-06-26",
+      "status": "pending"
     }
   ]
 }
