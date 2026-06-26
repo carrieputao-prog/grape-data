@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-26",
+  "last_updated": "2026-06-27",
   "pending": [
     {
       "id": 200,
@@ -299,6 +299,14 @@
       "source": "Crescendo.ai",
       "why_important": "新兴网络安全威胁",
       "added_date": "2026-06-26",
+      "status": "pending"
+    },
+    {
+      "id": 235,
+      "term": "模型“蒸馏攻击” (Model Distillation Attack)",
+      "brief": "一种大规模、非法提取大型AI模型能力的行为，通过虚假交互复制其核心技能。",
+      "source": "Agent1-早报-2026-06-27",
+      "added_date": "2026-06-27",
       "status": "pending"
     }
   ]
