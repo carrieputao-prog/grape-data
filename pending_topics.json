@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-27",
+  "last_updated": "2026-06-28",
   "pending": [
     {
       "id": 200,
@@ -307,6 +307,30 @@
       "brief": "一种大规模、非法提取大型AI模型能力的行为，通过虚假交互复制其核心技能。",
       "source": "Agent1-早报-2026-06-27",
       "added_date": "2026-06-27",
+      "status": "pending"
+    },
+    {
+      "id": 236,
+      "term": "AI原生金融 (AI-native finance)",
+      "brief": "指的是金融服务从设计之初就以人工智能为核心构建，而非作为附加功能。",
+      "source": "Agent1-早报-2026-06-27",
+      "added_date": "2026-06-28",
+      "status": "pending"
+    },
+    {
+      "id": 237,
+      "term": "具身世界模型 (Embodied World Model)",
+      "brief": "是一种赋予机器人理解物理环境、预判交互结果并自主适应任务变化的AI模型。",
+      "source": "Agent1-早报-2026-06-27",
+      "added_date": "2026-06-28",
+      "status": "pending"
+    },
+    {
+      "id": 238,
+      "term": "智能体为核心的开放生态 (Agent-centric open ecosystem)",
+      "brief": "指的是以AI智能体而非传统应用程序为核心构建的软件或操作系统环境。",
+      "source": "Agent1-早报-2026-06-27",
+      "added_date": "2026-06-28",
       "status": "pending"
     }
   ]
