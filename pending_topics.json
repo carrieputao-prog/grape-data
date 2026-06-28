@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-28",
+  "last_updated": "2026-06-29",
   "pending": [
     {
       "id": 200,
@@ -331,6 +331,22 @@
       "brief": "指的是以AI智能体而非传统应用程序为核心构建的软件或操作系统环境。",
       "source": "Agent1-早报-2026-06-27",
       "added_date": "2026-06-28",
+      "status": "pending"
+    },
+    {
+      "id": 239,
+      "term": "AI智能体 (AI Agent)",
+      "brief": "一个能设定目标、自主规划并执行任务的AI系统。",
+      "source": "Agent1-早报-2026-06-28",
+      "added_date": "2026-06-29",
+      "status": "pending"
+    },
+    {
+      "id": 240,
+      "term": "Token成本 (Token Cost)",
+      "brief": "大语言模型处理和生成文本（Token）所产生的计算和经济成本。",
+      "source": "Agent1-早报-2026-06-28",
+      "added_date": "2026-06-29",
       "status": "pending"
     }
   ]
