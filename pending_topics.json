@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-29",
+  "last_updated": "2026-06-30",
   "pending": [
     {
       "id": 200,
@@ -347,6 +347,22 @@
       "brief": "大语言模型处理和生成文本（Token）所产生的计算和经济成本。",
       "source": "Agent1-早报-2026-06-28",
       "added_date": "2026-06-29",
+      "status": "pending"
+    },
+    {
+      "id": 241,
+      "term": "模型崩溃 (Model Collapse)",
+      "brief": "指AI模型在用由其他AI生成的文本进行训练时，导致内容模式化、失去创造力的恶性循环现象。",
+      "source": "Agent1-早报-2026-06-30",
+      "added_date": "2026-06-30",
+      "status": "pending"
+    },
+    {
+      "id": 242,
+      "term": "湖库一体AI数据库 (Lake-house integrated AI database)",
+      "brief": "一种面向AI时代的数据底座，能统一管理和计算结构化、非结构化及向量等多模态数据。",
+      "source": "Agent1-早报-2026-06-30",
+      "added_date": "2026-06-30",
       "status": "pending"
     }
   ]
