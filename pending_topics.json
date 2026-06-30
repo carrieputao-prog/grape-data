@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-30",
+  "last_updated": "2026-07-01",
   "pending": [
     {
       "id": 200,
@@ -363,6 +363,14 @@
       "brief": "一种面向AI时代的数据底座，能统一管理和计算结构化、非结构化及向量等多模态数据。",
       "source": "Agent1-早报-2026-06-30",
       "added_date": "2026-06-30",
+      "status": "pending"
+    },
+    {
+      "id": 243,
+      "term": "AI Agent / AI Agent",
+      "brief": "一个能够自主感知环境、进行思考决策、并执行一系列行动以达成特定目标的智能实体。",
+      "source": "早报-2026-06-30",
+      "added_date": "2026-07-01",
       "status": "pending"
     }
   ]
