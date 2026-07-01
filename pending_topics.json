@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-01",
+  "last_updated": "2026-07-02",
   "pending": [
     {
       "id": 200,
@@ -371,6 +371,14 @@
       "brief": "一个能够自主感知环境、进行思考决策、并执行一系列行动以达成特定目标的智能实体。",
       "source": "早报-2026-06-30",
       "added_date": "2026-07-01",
+      "status": "pending"
+    },
+    {
+      "id": 244,
+      "term": "具身机器人 (Embodied robots)",
+      "brief": "结合人工智能的机器人，能通过物理身体感知并与现实世界互动学习。",
+      "source": "Agent1-早报-2026-07-02",
+      "added_date": "2026-07-02",
       "status": "pending"
     }
   ]
