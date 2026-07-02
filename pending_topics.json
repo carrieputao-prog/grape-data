@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-02",
+  "last_updated": "2026-07-03",
   "pending": [
     {
       "id": 200,
@@ -379,6 +379,14 @@
       "brief": "结合人工智能的机器人，能通过物理身体感知并与现实世界互动学习。",
       "source": "Agent1-早报-2026-07-02",
       "added_date": "2026-07-02",
+      "status": "pending"
+    },
+    {
+      "id": 245,
+      "term": "Agentic AI (AI Agent)",
+      "brief": "一个能自主规划步骤、调用工具并学习新技能以完成特定目标的智能机器人助手。",
+      "source": "Agent1-早报-2026-07-03",
+      "added_date": "2026-07-03",
       "status": "pending"
     }
   ]
