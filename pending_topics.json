@@ -388,6 +388,46 @@
       "source": "Agent1-早报-2026-07-03",
       "added_date": "2026-07-03",
       "status": "pending"
+    },
+    {
+      "id": 196,
+      "term": "LLM Role Confusion (LLM角色混淆)",
+      "module": "基础认知层",
+      "brief": "指大型语言模型因混淆文本来源角色而易受提示注入攻击的现象。",
+      "source": "Hacker News",
+      "why_important": "解释提示注入根源",
+      "added_date": "2026-07-03",
+      "status": "pending"
+    },
+    {
+      "id": 197,
+      "term": "Constructive Alignment (建设性对齐)",
+      "module": "前沿与趋势层",
+      "brief": "一种将AI对齐重新定义为对不断演进的人类偏好轨迹进行控制的新范式。",
+      "source": "arXiv",
+      "why_important": "AI对齐新范式",
+      "added_date": "2026-07-03",
+      "status": "pending"
+    },
+    {
+      "id": 198,
+      "term": "AutoMem (自动化记忆学习)",
+      "module": "前沿与趋势层",
+      "brief": "一项关于AI如何自动化学习记忆作为认知技能的研究或系统。",
+      "source": "arXiv",
+      "why_important": "AI记忆学习新进展",
+      "added_date": "2026-07-03",
+      "status": "pending"
+    },
+    {
+      "id": 199,
+      "term": "Self-improvement loop for real-world robotics (真实世界机器人自改进循环)",
+      "module": "前沿与趋势层",
+      "brief": "一种让实体机器人能够自主进行实验和改进的系统（如NVIDIA的ENPIRE）。",
+      "source": "Import AI",
+      "why_important": "机器人自主学习新范式",
+      "added_date": "2026-07-03",
+      "status": "pending"
     }
   ]
 }
