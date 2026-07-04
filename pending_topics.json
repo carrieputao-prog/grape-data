@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-04",
+  "last_updated": "2026-07-05",
   "pending": [
     {
       "id": 200,
@@ -451,6 +451,22 @@
       "brief": "一种为AI智能体提供运行环境、管理和协调能力，使其能高效执行任务的操作系统或框架。",
       "source": "Agent1-早报-2026-07-04",
       "added_date": "2026-07-04",
+      "status": "pending"
+    },
+    {
+      "id": 253,
+      "term": "Physical AI (物理AI)",
+      "brief": "指的是AI能够超越数字层面，在物理世界中进行实际操作和控制的能力，例如在生命科学实验室中实现湿实验的全流程自动化执行。",
+      "source": "早报-2026-07-04",
+      "added_date": "2026-07-05",
+      "status": "pending"
+    },
+    {
+      "id": 254,
+      "term": "人工智能拟人化互动服务 (AI personified interactive service)",
+      "brief": "指的是具有拟人化特征，能够与用户进行互动交流的AI服务，其应用和发展正受到新的法规管理，需符合政策合规要求。",
+      "source": "早报-2026-07-04",
+      "added_date": "2026-07-05",
       "status": "pending"
     }
   ]
