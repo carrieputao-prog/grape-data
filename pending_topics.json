@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-05",
+  "last_updated": "2026-07-06",
   "pending": [
     {
       "id": 200,
@@ -467,6 +467,30 @@
       "brief": "指的是具有拟人化特征，能够与用户进行互动交流的AI服务，其应用和发展正受到新的法规管理，需符合政策合规要求。",
       "source": "早报-2026-07-04",
       "added_date": "2026-07-05",
+      "status": "pending"
+    },
+    {
+      "id": 255,
+      "term": "韬定律 (Tao's Law)",
+      "brief": "华为更新的芯片性能提升理论，通过LogicFolding等技术实现同制程下芯片运行更快、更省电。",
+      "source": "量子位-早报-2026-07-05",
+      "added_date": "2026-07-06",
+      "status": "pending"
+    },
+    {
+      "id": 256,
+      "term": "LogicFolding技术 (LogicFolding Technology)",
+      "brief": "华为“韬定律”中的一项关键技术，通过垂直堆叠电路缩短走线，提升芯片性能和能效。",
+      "source": "量子位-早报-2026-07-05",
+      "added_date": "2026-07-06",
+      "status": "pending"
+    },
+    {
+      "id": 257,
+      "term": "AI Agent (人工智能智能体)",
+      "brief": "能独立设定目标、规划步骤、执行任务，并根据反馈调整行为，完成复杂工作的数字系统。",
+      "source": "今日AI小知识-早报-2026-07-05",
+      "added_date": "2026-07-06",
       "status": "pending"
     }
   ]
