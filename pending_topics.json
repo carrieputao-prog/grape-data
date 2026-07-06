@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-06",
+  "last_updated": "2026-07-07",
   "pending": [
     {
       "id": 200,
@@ -491,6 +491,14 @@
       "brief": "能独立设定目标、规划步骤、执行任务，并根据反馈调整行为，完成复杂工作的数字系统。",
       "source": "今日AI小知识-早报-2026-07-05",
       "added_date": "2026-07-06",
+      "status": "pending"
+    },
+    {
+      "id": 258,
+      "term": "物理信息神经网络 (Physics-informed Neural Networks, PINNs)",
+      "brief": "将物理学的基本定律融入到神经网络中，从而在只有少量数据的情况下，也能更准确、更高效地预测复杂物理系统行为的一种技术。",
+      "source": "Agent1-早报-2026-07-07",
+      "added_date": "2026-07-07",
       "status": "pending"
     }
   ]
