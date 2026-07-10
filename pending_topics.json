@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-08",
+  "last_updated": "2026-07-10",
   "pending": [
     {
       "id": 200,
@@ -507,6 +507,56 @@
       "brief": "一种能理解复杂任务、自主规划步骤、利用工具完成并不断学习优化的智能系统。",
       "source": "Agent1-早报-2026-07-08",
       "added_date": "2026-07-08",
+      "status": "pending"
+    },
+    {
+      "id": 196,
+      "term": "Topological AI Core (拓扑AI核心)",
+      "module": "基础认知层",
+      "brief": "一种CPU驱动、无Token、多模态、基于代数拓扑的AI核心架构，旨在理解概念而非词汇。",
+      "source": "Hacker News",
+      "why_important": "开辟AI新范式",
+      "added_date": "2026-07-10",
+      "status": "pending"
+    },
+    {
+      "id": 197,
+      "term": "Recursive Self-Improvement (递归自我改进)",
+      "module": "前沿与趋势层",
+      "brief": "指AI系统通过迭代过程自主优化和提升自身性能的能力。",
+      "source": "arXiv",
+      "why_important": "AI自主进化核心",
+      "added_date": "2026-07-10",
+      "status": "pending"
+    },
+    {
+      "id": 198,
+      "term": "Source-Grounded Skill Library (源头接地技能库)",
+      "module": "工程与应用层",
+      "brief": "为智能体提供可追溯到原始数据来源、结构化的、可验证的技能集合。",
+      "source": "arXiv, 清华姜学长 B站",
+      "why_important": "增强Agent可信度",
+      "added_date": "2026-07-10",
+      "status": "pending"
+    },
+    {
+      "id": 199,
+      "term": "Contextual Optical Compression (上下文光学压缩)",
+      "module": "工程与应用层",
+      "brief": "一种在多模态或视觉任务中，利用上下文信息进行高效光学数据压缩的技术。",
+      "source": "晓辉博士 B站",
+      "why_important": "提高视觉处理效率",
+      "added_date": "2026-07-10",
+      "status": "pending"
+    },
+    {
+      "id": 200,
+      "term": "Compositional Reasoning Strategies (组合推理策略)",
+      "module": "基础认知层",
+      "brief": "通过组合更简单的推理步骤来解决复杂问题的人工智能策略。",
+      "source": "arXiv",
+      "why_important": "细化AI推理机制",
+      "added_date": "2026-07-10",
       "status": "pending"
     }
   ]
