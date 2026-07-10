@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-10",
+  "last_updated": "2026-07-11",
   "pending": [
     {
       "id": 200,
@@ -557,6 +557,22 @@
       "source": "arXiv",
       "why_important": "细化AI推理机制",
       "added_date": "2026-07-10",
+      "status": "pending"
+    },
+    {
+      "id": 265,
+      "term": "Agentic AI（智能体AI）",
+      "brief": "一种能自主规划、执行并自我修正以达成目标的AI系统。",
+      "source": "Agent1-早报-2026-07-11",
+      "added_date": "2026-07-11",
+      "status": "pending"
+    },
+    {
+      "id": 266,
+      "term": "类小脑忆阻晶体管 (Cerebellum-inspired memristive transistor)",
+      "brief": "一种受小脑启发，能忽略常规输入并在检测到意外事件时节能响应的新型晶体管。",
+      "source": "Agent1-早报-2026-07-11",
+      "added_date": "2026-07-11",
       "status": "pending"
     }
   ]
