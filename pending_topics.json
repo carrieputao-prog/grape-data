@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-13",
+  "last_updated": "2026-07-14",
   "pending": [
     {
       "id": 200,
@@ -589,6 +589,22 @@
       "brief": "一种专用处理器，旨在加速数据中心的数据处理、网络和存储功能，对于AI计算基础设施日益重要。",
       "source": "早报-2026-07-12",
       "added_date": "2026-07-13",
+      "status": "pending"
+    },
+    {
+      "id": 269,
+      "term": "AI超集群 (AI Supercluster)",
+      "brief": "专为大规模人工智能模型训练和计算设计的超大型计算集群。",
+      "source": "Agent1-早报-2026-07-14",
+      "added_date": "2026-07-14",
+      "status": "pending"
+    },
+    {
+      "id": 270,
+      "term": "推理努力 (Inference Effort)",
+      "brief": "OpenAI模型中可调节的机制，用于平衡AI推理的成本和性能。",
+      "source": "Agent1-早报-2026-07-14",
+      "added_date": "2026-07-14",
       "status": "pending"
     }
   ]
