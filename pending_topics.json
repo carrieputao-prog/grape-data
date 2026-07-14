@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-14",
+  "last_updated": "2026-07-15",
   "pending": [
     {
       "id": 200,
@@ -605,6 +605,14 @@
       "brief": "OpenAI模型中可调节的机制，用于平衡AI推理的成本和性能。",
       "source": "Agent1-早报-2026-07-14",
       "added_date": "2026-07-14",
+      "status": "pending"
+    },
+    {
+      "id": 271,
+      "term": "大模型原生 (Large Model Native)",
+      "brief": "指的是从设计之初就以大型AI模型为核心，深度整合其能力以提供创新体验的产品或平台。",
+      "source": "Agent1-早报-2026-07-15",
+      "added_date": "2026-07-15",
       "status": "pending"
     }
   ]
