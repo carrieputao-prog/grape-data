@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-15",
+  "last_updated": "2026-07-16",
   "pending": [
     {
       "id": 200,
@@ -613,6 +613,14 @@
       "brief": "指的是从设计之初就以大型AI模型为核心，深度整合其能力以提供创新体验的产品或平台。",
       "source": "Agent1-早报-2026-07-15",
       "added_date": "2026-07-15",
+      "status": "pending"
+    },
+    {
+      "id": 272,
+      "term": "端侧生成式人工智能服务 (On-device generative AI service)",
+      "brief": "指在移动设备等终端侧本地运行的、提供生成式AI能力的服务。",
+      "source": "Agent1-早报-2026-07-15",
+      "added_date": "2026-07-16",
       "status": "pending"
     }
   ]
