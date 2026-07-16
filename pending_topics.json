@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-16",
+  "last_updated": "2026-07-17",
   "pending": [
     {
       "id": 200,
@@ -621,6 +621,14 @@
       "brief": "指在移动设备等终端侧本地运行的、提供生成式AI能力的服务。",
       "source": "Agent1-早报-2026-07-15",
       "added_date": "2026-07-16",
+      "status": "pending"
+    },
+    {
+      "id": 273,
+      "term": "智能体 (Agent)",
+      "brief": "指能够自主感知环境、进行决策并采取行动以达成特定目标的AI系统。",
+      "source": "Agent1-早报-2026-07-17",
+      "added_date": "2026-07-17",
       "status": "pending"
     }
   ]
