@@ -630,6 +630,56 @@
       "source": "Agent1-早报-2026-07-17",
       "added_date": "2026-07-17",
       "status": "pending"
+    },
+    {
+      "id": 196,
+      "term": "Speculative Decoding (推测解码)",
+      "module": "工程与应用层",
+      "brief": "一种优化大型语言模型推理的技术，通过并行生成和验证草稿来加速文本生成，同时保持输出质量。",
+      "source": "The Batch (Andrew Ng)",
+      "why_important": "提高LLM推理效率",
+      "added_date": "2026-07-17",
+      "status": "pending"
+    },
+    {
+      "id": 197,
+      "term": "Harness Engineering (缰绳工程)",
+      "module": "工程与应用层",
+      "brief": "一种围绕AI智能体设计的系统方法，强调对智能体工作流、权限、上下文管理和评估循环的整体设计，以确保可靠性和可控性。",
+      "source": "Latent Space, TLDR AI",
+      "why_important": "提升智能体系统可靠性",
+      "added_date": "2026-07-17",
+      "status": "pending"
+    },
+    {
+      "id": 198,
+      "term": "Loop Engineering (循环工程)",
+      "module": "工程与应用层",
+      "brief": "专注于设计和实现迭代循环，使AI智能体在人类监督和评估下，自主执行任务、测试并逐步优化，形成不同速度的嵌套开发节奏。",
+      "source": "The Batch (Andrew Ng), Latent Space, Dr Milan Milanović (@techworldwithmilan)",
+      "why_important": "优化Agent开发与迭代",
+      "added_date": "2026-07-17",
+      "status": "pending"
+    },
+    {
+      "id": 199,
+      "term": "Model Workspace Protocol (MWP) (模型工作区协议)",
+      "module": "工程与应用层",
+      "brief": "一种新型的AI智能体编排方法，通过文件系统结构（而非复杂框架）来管理工作流、上下文和任务执行，提高可解释性和简化开发。",
+      "source": "arXiv (Jake Van Clief and David McDermott)",
+      "why_important": "简化Agent编排与管理",
+      "added_date": "2026-07-17",
+      "status": "pending"
+    },
+    {
+      "id": 200,
+      "term": "Epistemic State Replication (ESR) (认知状态复制)",
+      "module": "前沿与趋势层",
+      "brief": "针对智能体分布式系统的一种信念复制层，使得概率性智能体能够就其信念而非精确位状态达成一致，解决经典状态机复制的局限性。",
+      "source": "arXiv ( via AISurfing)",
+      "why_important": "分布式智能体系统新范式",
+      "added_date": "2026-07-17",
+      "status": "pending"
     }
   ]
 }
