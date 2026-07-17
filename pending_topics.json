@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-17",
+  "last_updated": "2026-07-18",
   "pending": [
     {
       "id": 200,
@@ -679,6 +679,22 @@
       "source": "arXiv ( via AISurfing)",
       "why_important": "分布式智能体系统新范式",
       "added_date": "2026-07-17",
+      "status": "pending"
+    },
+    {
+      "id": 279,
+      "term": "AI智能体手机 (AI Agent Phone)",
+      "brief": "全球首款以高级AI智能体为核心，能够感知环境并执行复杂任务的新型智能手机。",
+      "source": "Agent1-早报-2026-07-18",
+      "added_date": "2026-07-18",
+      "status": "pending"
+    },
+    {
+      "id": 280,
+      "term": "Agent操作系统 (Agent Operating System)",
+      "brief": "专为高级AI智能体设计，用于管理和协调AI代理的复杂任务、交互和环境感知的操作系统。",
+      "source": "Agent1-早报-2026-07-18",
+      "added_date": "2026-07-18",
       "status": "pending"
     }
   ]
