@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-18",
+  "last_updated": "2026-07-19",
   "pending": [
     {
       "id": 200,
@@ -695,6 +695,22 @@
       "brief": "专为高级AI智能体设计，用于管理和协调AI代理的复杂任务、交互和环境感知的操作系统。",
       "source": "Agent1-早报-2026-07-18",
       "added_date": "2026-07-18",
+      "status": "pending"
+    },
+    {
+      "id": 281,
+      "term": "具身AI (Embodied AI)",
+      "brief": "指人工智能系统不仅拥有智能，还能通过物理身体感知环境并与现实世界进行交互。",
+      "source": "Agent1-早报-2026-07-19",
+      "added_date": "2026-07-19",
+      "status": "pending"
+    },
+    {
+      "id": 282,
+      "term": "代理编程能力 (Agent Programming Capability)",
+      "brief": "指AI模型能够像代理一样自主编写、执行代码以完成复杂编程任务的能力。",
+      "source": "Agent1-早报-2026-07-19",
+      "added_date": "2026-07-19",
       "status": "pending"
     }
   ]
