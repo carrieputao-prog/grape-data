@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-20",
+  "last_updated": "2026-07-21",
   "pending": [
     {
       "id": 200,
@@ -719,6 +719,14 @@
       "brief": "一种能自主规划步骤、调用工具完成任务，并能从环境中学习调整行为的智能AI系统。",
       "source": "早报-2026-07-19",
       "added_date": "2026-07-20",
+      "status": "pending"
+    },
+    {
+      "id": 284,
+      "term": "每美元有用智能 (Useful Intelligence per Dollar)",
+      "brief": "OpenAI提出的一项新指标，用于衡量AI投资的价值，根据成功完成的任务数量和总成本评估AI成果。",
+      "source": "Agent1-早报-2026-07-20",
+      "added_date": "2026-07-21",
       "status": "pending"
     }
   ]
