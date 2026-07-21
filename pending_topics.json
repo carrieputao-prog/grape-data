@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-21",
+  "last_updated": "2026-07-22",
   "pending": [
     {
       "id": 200,
@@ -727,6 +727,14 @@
       "brief": "OpenAI提出的一项新指标，用于衡量AI投资的价值，根据成功完成的任务数量和总成本评估AI成果。",
       "source": "Agent1-早报-2026-07-20",
       "added_date": "2026-07-21",
+      "status": "pending"
+    },
+    {
+      "id": 285,
+      "term": "Science for AI",
+      "brief": "图灵奖得主姚期智院士提出的概念，强调从科学原理出发研究AI本身（如量子AI），而非仅仅将AI作为科学研究的工具。",
+      "source": "Agent1-早报-2026-07-21",
+      "added_date": "2026-07-22",
       "status": "pending"
     }
   ]
