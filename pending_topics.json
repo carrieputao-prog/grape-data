@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-23",
+  "last_updated": "2026-08-02",
   "pending": [
     {
       "id": 200,
@@ -743,6 +743,14 @@
       "brief": "指的是AI模型直接在手机、智能家居或工厂设备等“边缘”设备上处理数据，而不是把所有信息都传到遥远的云端，以实现更快的响应。",
       "source": "Agent1-早报-2026-07-23",
       "added_date": "2026-07-23",
+      "status": "pending"
+    },
+    {
+      "id": 287,
+      "term": "多智能体模型 (Multi-agent model)",
+      "brief": "一种AI模型家族，其核心在于强化多个AI Agent的长周期协同能力，以解决高难度复杂问题。",
+      "source": "Agent1-早报-2026-08-01",
+      "added_date": "2026-08-02",
       "status": "pending"
     }
   ]
