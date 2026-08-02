@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-02",
+  "last_updated": "2026-08-03",
   "pending": [
     {
       "id": 200,
@@ -751,6 +751,30 @@
       "brief": "一种AI模型家族，其核心在于强化多个AI Agent的长周期协同能力，以解决高难度复杂问题。",
       "source": "Agent1-早报-2026-08-01",
       "added_date": "2026-08-02",
+      "status": "pending"
+    },
+    {
+      "id": 288,
+      "term": "agentic AI（代理式AI）",
+      "brief": "指能够自主、长期运行并完成复杂任务的AI系统，尤其在特定领域如芯片验证中展现出变革性潜力。",
+      "source": "Agent1-早报-2026-08-03",
+      "added_date": "2026-08-03",
+      "status": "pending"
+    },
+    {
+      "id": 289,
+      "term": "模型蒸馏（Model distillation）",
+      "brief": "一种机器学习技术，通过将大型AI模型的知识转移到小型模型中，以提高效率或规避某些限制。",
+      "source": "Agent1-早报-2026-08-03",
+      "added_date": "2026-08-03",
+      "status": "pending"
+    },
+    {
+      "id": 290,
+      "term": "多模态AI（Multimodal AI）",
+      "brief": "能够同时处理和理解文本、图像、音频等多种类型信息的AI系统，在2026年正经历性能和推理能力的显著突破。",
+      "source": "Agent1-早报-2026-08-03",
+      "added_date": "2026-08-03",
       "status": "pending"
     }
   ]
