@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-03",
+  "last_updated": "2026-08-04",
   "pending": [
     {
       "id": 200,
@@ -775,6 +775,22 @@
       "brief": "能够同时处理和理解文本、图像、音频等多种类型信息的AI系统，在2026年正经历性能和推理能力的显著突破。",
       "source": "Agent1-早报-2026-08-03",
       "added_date": "2026-08-03",
+      "status": "pending"
+    },
+    {
+      "id": 291,
+      "term": "GEO（生成式引擎优化） (Generative Engine Optimization)",
+      "brief": "一种针对生成式人工智能内容，优化其在AI应用答案中排名的策略或市场。",
+      "source": "Agent1-早报-2026-08-04",
+      "added_date": "2026-08-04",
+      "status": "pending"
+    },
+    {
+      "id": 292,
+      "term": "企业级Agent (Enterprise-grade Agent)",
+      "brief": "专为企业应用设计，具备编程和专业办公能力，能够自主执行任务以提升企业生产力的AI智能体产品。",
+      "source": "Agent1-早报-2026-08-04",
+      "added_date": "2026-08-04",
       "status": "pending"
     }
   ]
