@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-04",
+  "last_updated": "2026-08-05",
   "pending": [
     {
       "id": 200,
@@ -791,6 +791,14 @@
       "brief": "专为企业应用设计，具备编程和专业办公能力，能够自主执行任务以提升企业生产力的AI智能体产品。",
       "source": "Agent1-早报-2026-08-04",
       "added_date": "2026-08-04",
+      "status": "pending"
+    },
+    {
+      "id": 293,
+      "term": "科研智能体 (Research AI Agent)",
+      "brief": "一种专注于基础科学研究的AI智能体，能像人类科学家一样进行原创发现和解决复杂难题。",
+      "source": "中国科技网",
+      "added_date": "2026-08-05",
       "status": "pending"
     }
   ]
