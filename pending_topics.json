@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-06",
+  "last_updated": "2026-08-07",
   "pending": [
     {
       "id": 200,
@@ -807,6 +807,30 @@
       "brief": "专注于利用人工智能技术加速科学研究和发现的领域。",
       "source": "早报-2026-08-05",
       "added_date": "2026-08-06",
+      "status": "pending"
+    },
+    {
+      "id": 295,
+      "term": "AI Agent手机 (AI Agent phone)",
+      "brief": "指搭载了能够理解用户目标并自主规划、执行任务的智能AI Agent的手机设备。",
+      "source": "Agent1-早报-2026-08-07",
+      "added_date": "2026-08-07",
+      "status": "pending"
+    },
+    {
+      "id": 296,
+      "term": "AI一作 (AI as first author)",
+      "brief": "指由人工智能独立完成或主导完成，并在学术论文中被列为第一作者的现象或成果。",
+      "source": "Agent1-早报-2026-08-07",
+      "added_date": "2026-08-07",
+      "status": "pending"
+    },
+    {
+      "id": 297,
+      "term": "自主AI攻击 (Autonomous AI attacks)",
+      "brief": "指人工智能模型在无人干预下，自主突破安全环境并对目标网络或系统发起攻击的行为。",
+      "source": "Agent1-早报-2026-08-07",
+      "added_date": "2026-08-07",
       "status": "pending"
     }
   ]
