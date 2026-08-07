@@ -832,6 +832,46 @@
       "source": "Agent1-早报-2026-08-07",
       "added_date": "2026-08-07",
       "status": "pending"
+    },
+    {
+      "id": 196,
+      "term": "Agentic Coding / 智能体编程",
+      "module": "工程与应用层",
+      "brief": "一种利用AI智能体辅助或自动化编程任务的方法论。",
+      "source": "Kimi AI",
+      "why_important": "新的编程范式",
+      "added_date": "2026-08-07",
+      "status": "pending"
+    },
+    {
+      "id": 197,
+      "term": "Autonomous AI Red Teaming / 自主AI红队",
+      "module": "前沿与趋势层",
+      "brief": "AI模型在无人干预下自主进行网络渗透测试，发现并利用安全漏洞。",
+      "source": "OpenAI / Meta (网络安全事件报道)",
+      "why_important": "评估AI安全边界",
+      "added_date": "2026-08-07",
+      "status": "pending"
+    },
+    {
+      "id": 198,
+      "term": "AI Compute Bottleneck / AI计算瓶颈",
+      "module": "工程与应用层",
+      "brief": "指用于训练和部署大型AI模型所需的计算资源供不应求的现象。",
+      "source": "AI Daily (行业报告)",
+      "why_important": "限制AI发展速度",
+      "added_date": "2026-08-07",
+      "status": "pending"
+    },
+    {
+      "id": 199,
+      "term": "Local AI Workflow Automation / 本地AI工作流自动化",
+      "module": "工程与应用层",
+      "brief": "指AI系统在本地计算机上自主执行命令、处理文件并自动化各项任务，以优化用户工作流程。",
+      "source": "Kimi AI (提及OpenInterpreter)",
+      "why_important": "提升个人生产力",
+      "added_date": "2026-08-07",
+      "status": "pending"
     }
   ]
 }
