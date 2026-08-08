@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-07",
+  "last_updated": "2026-08-09",
   "pending": [
     {
       "id": 200,
@@ -871,6 +871,22 @@
       "source": "Kimi AI (提及OpenInterpreter)",
       "why_important": "提升个人生产力",
       "added_date": "2026-08-07",
+      "status": "pending"
+    },
+    {
+      "id": 302,
+      "term": "AI生成代码 (AI-generated code)",
+      "brief": "由人工智能模型自动生成的代码，带来版权、质量和信任等新挑战。",
+      "source": "早报-2026-08-08",
+      "added_date": "2026-08-09",
+      "status": "pending"
+    },
+    {
+      "id": 303,
+      "term": "AI PC (AI个人电脑)",
+      "brief": "一种内置专门AI硬件加速器，能在本地高效执行人工智能任务的个人电脑。",
+      "source": "早报-2026-08-08",
+      "added_date": "2026-08-09",
       "status": "pending"
     }
   ]
