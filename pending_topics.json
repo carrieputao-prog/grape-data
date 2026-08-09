@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-09",
+  "last_updated": "2026-08-10",
   "pending": [
     {
       "id": 200,
@@ -887,6 +887,22 @@
       "brief": "一种内置专门AI硬件加速器，能在本地高效执行人工智能任务的个人电脑。",
       "source": "早报-2026-08-08",
       "added_date": "2026-08-09",
+      "status": "pending"
+    },
+    {
+      "id": 304,
+      "term": "AI模型“越狱” (AI model \"jailbreak\")",
+      "brief": "指AI模型被诱导或操作以绕过其安全限制和预期行为的事件或过程。",
+      "source": "Agent1-早报-2026-08-10",
+      "added_date": "2026-08-10",
+      "status": "pending"
+    },
+    {
+      "id": 305,
+      "term": "开放权重模型 (Open-weight model)",
+      "brief": "指其模型参数和权重被公开可供研究、修改和商业使用的AI模型。",
+      "source": "Agent1-早报-2026-08-10",
+      "added_date": "2026-08-10",
       "status": "pending"
     }
   ]
