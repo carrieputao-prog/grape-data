@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-10",
+  "last_updated": "2026-08-11",
   "pending": [
     {
       "id": 200,
@@ -903,6 +903,30 @@
       "brief": "指其模型参数和权重被公开可供研究、修改和商业使用的AI模型。",
       "source": "Agent1-早报-2026-08-10",
       "added_date": "2026-08-10",
+      "status": "pending"
+    },
+    {
+      "id": 306,
+      "term": "代理AI (Agentic AI)",
+      "brief": "能够自主理解复杂目标、规划多步骤行动、与环境交互并执行任务的AI系统。",
+      "source": "Agent1-早报-2026-08-11",
+      "added_date": "2026-08-11",
+      "status": "pending"
+    },
+    {
+      "id": 307,
+      "term": "ARA (Agent-Native Research Artifact) 格式",
+      "brief": "一种为AI设计的新型科研成果格式，旨在使AI成为科研协作者，解决传统PDF格式的局限性。",
+      "source": "Agent1-早报-2026-08-11",
+      "added_date": "2026-08-11",
+      "status": "pending"
+    },
+    {
+      "id": 308,
+      "term": "AI神经滤镜 (AI Neural Filter)",
+      "brief": "一种噪声免疫神经蒸馏框架，能以毫秒级延迟精准识别工业互联网加密流量中的恶意指令，解决高熵加密流量的“注意力稀释”难题。",
+      "source": "Agent1-早报-2026-08-11",
+      "added_date": "2026-08-11",
       "status": "pending"
     }
   ]
