@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-11",
+  "last_updated": "2026-08-13",
   "pending": [
     {
       "id": 200,
@@ -927,6 +927,22 @@
       "brief": "一种噪声免疫神经蒸馏框架，能以毫秒级延迟精准识别工业互联网加密流量中的恶意指令，解决高熵加密流量的“注意力稀释”难题。",
       "source": "Agent1-早报-2026-08-11",
       "added_date": "2026-08-11",
+      "status": "pending"
+    },
+    {
+      "id": 309,
+      "term": "企业智能体 (Enterprise Intelligent Agent)",
+      "brief": "指应用于企业场景，能自主执行任务并提供智能决策支持的AI系统。",
+      "source": "Agent1-早报-2026-08-13",
+      "added_date": "2026-08-13",
+      "status": "pending"
+    },
+    {
+      "id": 310,
+      "term": "AI原生产品 (AI-Native Product)",
+      "brief": "指以AI为核心驱动力，从设计之初就深度融合AI能力而非后期附加的软件产品。",
+      "source": "Agent1-早报-2026-08-13",
+      "added_date": "2026-08-13",
       "status": "pending"
     }
   ]
