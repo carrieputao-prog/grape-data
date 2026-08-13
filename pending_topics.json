@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-13",
+  "last_updated": "2026-08-14",
   "pending": [
     {
       "id": 200,
@@ -943,6 +943,14 @@
       "brief": "指以AI为核心驱动力，从设计之初就深度融合AI能力而非后期附加的软件产品。",
       "source": "Agent1-早报-2026-08-13",
       "added_date": "2026-08-13",
+      "status": "pending"
+    },
+    {
+      "id": 311,
+      "term": "AI可观测性 (AI Observability)",
+      "brief": "专注于大规模评估、操作和持续改进AI应用，涵盖从开发到生产的整个AI生命周期。",
+      "source": "Agent1-早报-2026-08-14",
+      "added_date": "2026-08-14",
       "status": "pending"
     }
   ]
