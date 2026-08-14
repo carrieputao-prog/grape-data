@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-14",
+  "last_updated": "2026-08-15",
   "pending": [
     {
       "id": 200,
@@ -1001,6 +1001,22 @@
       "source": "AI Intelligence Briefing",
       "why_important": "确保智能体安全部署。",
       "added_date": "2026-08-14",
+      "status": "pending"
+    },
+    {
+      "id": 317,
+      "term": "端侧AI (Edge AI)",
+      "brief": "将AI的计算和处理直接部署在设备本地，而非依赖云端服务器。",
+      "source": "Agent1-早报-2026-08-14",
+      "added_date": "2026-08-15",
+      "status": "pending"
+    },
+    {
+      "id": 318,
+      "term": "智能算力 (Intelligent Computing Power)",
+      "brief": "专为AI任务优化和设计的计算能力，通常涉及专用硬件和加速器。",
+      "source": "Agent1-早报-2026-08-14",
+      "added_date": "2026-08-15",
       "status": "pending"
     }
   ]
