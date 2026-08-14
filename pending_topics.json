@@ -952,6 +952,56 @@
       "source": "Agent1-早报-2026-08-14",
       "added_date": "2026-08-14",
       "status": "pending"
+    },
+    {
+      "id": 196,
+      "term": "AI-Designed Viruses (AI设计病毒)",
+      "module": "前沿与趋势层",
+      "brief": "利用AI设计全新的、功能性的生物病毒，如噬菌体，用于医疗或生物技术。",
+      "source": "AI TechForecast, The Guardian",
+      "why_important": "突破生物工程前沿。",
+      "added_date": "2026-08-14",
+      "status": "pending"
+    },
+    {
+      "id": 197,
+      "term": "Kitesurf (Agent浏览器)",
+      "module": "工程与应用层",
+      "brief": "Cloudflare推出的专为AI智能体设计的浏览器，旨在管理上下文窗口、Token成本并解决提示注入漏洞。",
+      "source": "AI TechForecast",
+      "why_important": "提升智能体应用效率。",
+      "added_date": "2026-08-14",
+      "status": "pending"
+    },
+    {
+      "id": 198,
+      "term": "Recursive Self-Improvement (RSI) (递归式自我改进)",
+      "module": "前沿与趋势层",
+      "brief": "AI系统自主进行研究和开发，从而加速自身能力提升和发展速度的过程。",
+      "source": "Import AI, TIME",
+      "why_important": "改变AI发展范式。",
+      "added_date": "2026-08-14",
+      "status": "pending"
+    },
+    {
+      "id": 199,
+      "term": "Critical Cyber Capabilities (关键网络安全能力)",
+      "module": "前沿与趋势层",
+      "brief": "AI模型达到的一种能力阈值，能够自主识别和利用零日漏洞，并执行复杂的网络攻击。",
+      "source": "OpenAI, MacRumors",
+      "why_important": "标记AI安全新风险。",
+      "added_date": "2026-08-14",
+      "status": "pending"
+    },
+    {
+      "id": 200,
+      "term": "Agent Governance (智能体治理)",
+      "module": "工程与应用层",
+      "brief": "针对AI智能体在企业和实际应用中的行为进行管理、监控和控制的框架与策略。",
+      "source": "AI Intelligence Briefing",
+      "why_important": "确保智能体安全部署。",
+      "added_date": "2026-08-14",
+      "status": "pending"
     }
   ]
 }
