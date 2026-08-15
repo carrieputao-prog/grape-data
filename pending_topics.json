@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-15",
+  "last_updated": "2026-08-16",
   "pending": [
     {
       "id": 200,
@@ -1017,6 +1017,22 @@
       "brief": "专为AI任务优化和设计的计算能力，通常涉及专用硬件和加速器。",
       "source": "Agent1-早报-2026-08-14",
       "added_date": "2026-08-15",
+      "status": "pending"
+    },
+    {
+      "id": 319,
+      "term": "词元经济 / Token Economy (AI Computing Power)",
+      "brief": "一种以AI算力Token的产出、消耗量为核心，衡量企业价值并提供融资支持的经济模式。",
+      "source": "Agent1-早报-2026-08-16",
+      "added_date": "2026-08-16",
+      "status": "pending"
+    },
+    {
+      "id": 320,
+      "term": "稀疏权重分解（SWD） / Sparse Weight Decomposition",
+      "brief": "一种大模型可解释性新方法，通过直接从预训练权重中“拆”出可干预单元，显著降低了解释大模型内部机制的难度和成本。",
+      "source": "Agent1-早报-2026-08-16",
+      "added_date": "2026-08-16",
       "status": "pending"
     }
   ]
