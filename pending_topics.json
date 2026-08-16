@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-16",
+  "last_updated": "2026-08-17",
   "pending": [
     {
       "id": 200,
@@ -1033,6 +1033,22 @@
       "brief": "一种大模型可解释性新方法，通过直接从预训练权重中“拆”出可干预单元，显著降低了解释大模型内部机制的难度和成本。",
       "source": "Agent1-早报-2026-08-16",
       "added_date": "2026-08-16",
+      "status": "pending"
+    },
+    {
+      "id": 321,
+      "term": "垂直大模型 (Vertical Large Model)",
+      "brief": "针对特定领域或行业进行深度优化，提供专业化知识和服务的AI大型模型，如大豆领域的“丰菽”2.0。",
+      "source": "Agent1-早报-2026-08-17",
+      "added_date": "2026-08-17",
+      "status": "pending"
+    },
+    {
+      "id": 322,
+      "term": "稀疏MoE架构 (Sparse MoE architecture)",
+      "brief": "一种大型模型设计方法，通过选择性激活专家网络，实现模型规模高效扩展与推理优化，如阿里巴巴Qwen3.8-Max所采用。",
+      "source": "Agent1-早报-2026-08-17",
+      "added_date": "2026-08-17",
       "status": "pending"
     }
   ]
