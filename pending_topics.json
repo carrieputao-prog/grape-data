@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-18",
   "pending": [
     {
       "id": 200,
@@ -1049,6 +1049,30 @@
       "brief": "一种大型模型设计方法，通过选择性激活专家网络，实现模型规模高效扩展与推理优化，如阿里巴巴Qwen3.8-Max所采用。",
       "source": "Agent1-早报-2026-08-17",
       "added_date": "2026-08-17",
+      "status": "pending"
+    },
+    {
+      "id": 323,
+      "term": "隐形水印（Invisible Watermark）",
+      "brief": "一种在AI生成内容中嵌入的识别标记，旨在验证内容来源和真实性。",
+      "source": "Agent1-早报-2026-08-18",
+      "added_date": "2026-08-18",
+      "status": "pending"
+    },
+    {
+      "id": 324,
+      "term": "AI幻觉（AI Hallucination）",
+      "brief": "当AI生成听起来合理但实际上是虚假或不准确的信息时，就像它在“凭空想象”一样。",
+      "source": "Agent1-早报-2026-08-18",
+      "added_date": "2026-08-18",
+      "status": "pending"
+    },
+    {
+      "id": 325,
+      "term": "高光谱AI双星（Hyperspectral AI twin satellites）",
+      "brief": "结合高光谱遥感和AI能力的卫星系统，可在轨进行数据识别和处理。",
+      "source": "Agent1-早报-2026-08-18",
+      "added_date": "2026-08-18",
       "status": "pending"
     }
   ]
