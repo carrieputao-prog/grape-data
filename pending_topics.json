@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-18",
+  "last_updated": "2026-08-19",
   "pending": [
     {
       "id": 200,
@@ -1073,6 +1073,14 @@
       "brief": "结合高光谱遥感和AI能力的卫星系统，可在轨进行数据识别和处理。",
       "source": "Agent1-早报-2026-08-18",
       "added_date": "2026-08-18",
+      "status": "pending"
+    },
+    {
+      "id": 326,
+      "term": "模型对齐 (Model alignment)",
+      "brief": "确保AI模型的行为与人类的价值观、意图及安全标准保持一致，以避免有害或意外结果。",
+      "source": "Agent1-早报-2026-08-19",
+      "added_date": "2026-08-19",
       "status": "pending"
     }
   ]
