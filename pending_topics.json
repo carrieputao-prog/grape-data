@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-19",
+  "last_updated": "2026-08-20",
   "pending": [
     {
       "id": 200,
@@ -1081,6 +1081,22 @@
       "brief": "确保AI模型的行为与人类的价值观、意图及安全标准保持一致，以避免有害或意外结果。",
       "source": "Agent1-早报-2026-08-19",
       "added_date": "2026-08-19",
+      "status": "pending"
+    },
+    {
+      "id": 327,
+      "term": "AI原生应用 (AI-Native Applications)",
+      "brief": "指从设计之初就将AI能力作为核心，深度融合AI技术的新一代应用开发范式。",
+      "source": "Agent1-早报-2026-08-20",
+      "added_date": "2026-08-20",
+      "status": "pending"
+    },
+    {
+      "id": 328,
+      "term": "实时图像生成 (Real-time Image Generation)",
+      "brief": "指AI模型能够即时响应用户输入，快速生成高质量图像的能力，极大提升了交互效率。",
+      "source": "Agent1-早报-2026-08-20",
+      "added_date": "2026-08-20",
       "status": "pending"
     }
   ]
