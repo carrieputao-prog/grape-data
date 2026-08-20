@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-20",
+  "last_updated": "2026-08-21",
   "pending": [
     {
       "id": 200,
@@ -1097,6 +1097,22 @@
       "brief": "指AI模型能够即时响应用户输入，快速生成高质量图像的能力，极大提升了交互效率。",
       "source": "Agent1-早报-2026-08-20",
       "added_date": "2026-08-20",
+      "status": "pending"
+    },
+    {
+      "id": 329,
+      "term": "AI OS",
+      "brief": "一种将AI能力系统化集成到操作系统层面的软件架构，旨在为硬件设备提供原生智能体验。",
+      "source": "Agent1-早报-2026-08-21",
+      "added_date": "2026-08-21",
+      "status": "pending"
+    },
+    {
+      "id": 330,
+      "term": "Tensor Mixture (MixT)",
+      "brief": "一种新型大模型张量混合压缩框架，可显著降低AI大模型的部署成本。",
+      "source": "Agent1-早报-2026-08-21",
+      "added_date": "2026-08-21",
       "status": "pending"
     }
   ]
