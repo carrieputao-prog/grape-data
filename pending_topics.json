@@ -1114,6 +1114,56 @@
       "source": "Agent1-早报-2026-08-21",
       "added_date": "2026-08-21",
       "status": "pending"
+    },
+    {
+      "id": 216,
+      "term": "Agentic AI (智能体式人工智能)",
+      "module": "前沿与趋势层",
+      "brief": "能够自主规划、决策并利用工具执行多步骤、目标导向任务的AI系统，代表了AI发展的新范式。",
+      "source": "Vista Equity Partners, AI Buzz, TeamAI, UC Berkeley, TLDR AI, Import AI, AnthropicAI, arXiv",
+      "why_important": "AI发展新范式",
+      "added_date": "2026-08-21",
+      "status": "pending"
+    },
+    {
+      "id": 217,
+      "term": "Watermarking for AI-Generated Content (AI生成内容水印)",
+      "module": "工程与应用层",
+      "brief": "一种为AI生成内容添加机器可读的隐形标记（如文本中的不可见水印或图像元数据），以表明其AI来源的技术。",
+      "source": "AnthropicAI, Trending Topics, Artificial Lawyer",
+      "why_important": "内容溯源，确保合规",
+      "added_date": "2026-08-21",
+      "status": "pending"
+    },
+    {
+      "id": 218,
+      "term": "Long-horizon Agent Work (长周期智能体任务)",
+      "module": "工程与应用层",
+      "brief": "指智能体能够进行多步骤规划并执行需要长期持续或复杂交互的任务，如长时间运行终端或自动化企业流程。",
+      "source": "TLDR AI (Z.ai, Google DeepMind)",
+      "why_important": "提升智能体复杂性",
+      "added_date": "2026-08-21",
+      "status": "pending"
+    },
+    {
+      "id": 219,
+      "term": "Persistent Recursive Worlds (持久递归世界)",
+      "module": "前沿与趋势层",
+      "brief": "一种允许AI系统持续构建和自主演化软件项目的概念，使其能够超越其创建者的生命周期进行发展。",
+      "source": "arXiv (Persistent Recursive Worlds Enable Autonomous Software Evolution)",
+      "why_important": "促进AI自我演化",
+      "added_date": "2026-08-21",
+      "status": "pending"
+    },
+    {
+      "id": 220,
+      "term": "Process-DAG Topology (流程DAG拓扑)",
+      "module": "工程与应用层",
+      "brief": "一种将领域过程知识编码为有向无环图（DAG）拓扑结构的方法，用于构建在特定领域（如临床试验编程）中高度可靠的智能体系统。",
+      "source": "arXiv (GxP-Agent)",
+      "why_important": "提升领域代理可靠性",
+      "added_date": "2026-08-21",
+      "status": "pending"
     }
   ]
 }
