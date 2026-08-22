@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-22",
+  "last_updated": "2026-08-23",
   "pending": [
     {
       "id": 200,
@@ -1171,6 +1171,14 @@
       "brief": "一个将人工智能应用于科学研究的新范式，旨在变革科研方法并加速科学发现。",
       "source": "Agent1-早报-2026-08-21",
       "added_date": "2026-08-22",
+      "status": "pending"
+    },
+    {
+      "id": 337,
+      "term": "多模态大模型 (Multimodal Large Model)",
+      "brief": "指能够处理和理解多种类型数据（如文本、图像、音频等）的巨型人工智能模型。",
+      "source": "Agent1-早报-2026-08-22",
+      "added_date": "2026-08-23",
       "status": "pending"
     }
   ]
