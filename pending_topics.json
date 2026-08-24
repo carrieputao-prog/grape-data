@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-23",
+  "last_updated": "2026-08-25",
   "pending": [
     {
       "id": 200,
@@ -1179,6 +1179,30 @@
       "brief": "指能够处理和理解多种类型数据（如文本、图像、音频等）的巨型人工智能模型。",
       "source": "Agent1-早报-2026-08-22",
       "added_date": "2026-08-23",
+      "status": "pending"
+    },
+    {
+      "id": 338,
+      "term": "多模态Agent模型 (Multimodal Agent Model)",
+      "brief": "一种结合多种数据模态并能自主执行复杂跨应用任务的AI系统。",
+      "source": "Agent1-早报-2026-08-25",
+      "added_date": "2026-08-25",
+      "status": "pending"
+    },
+    {
+      "id": 339,
+      "term": "AI监管沙盒 (AI Regulatory Sandbox)",
+      "brief": "为新兴AI技术提供受控测试环境，以确保其符合相关法律法规的监管机制。",
+      "source": "Agent1-早报-2026-08-25",
+      "added_date": "2026-08-25",
+      "status": "pending"
+    },
+    {
+      "id": 340,
+      "term": "AI PC",
+      "brief": "深度集成AI芯片和优化方案，旨在本地高效运行复杂生成式AI应用的个人电脑。",
+      "source": "Agent1-早报-2026-08-25",
+      "added_date": "2026-08-25",
       "status": "pending"
     }
   ]
