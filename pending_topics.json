@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-25",
+  "last_updated": "2026-08-26",
   "pending": [
     {
       "id": 200,
@@ -1203,6 +1203,14 @@
       "brief": "深度集成AI芯片和优化方案，旨在本地高效运行复杂生成式AI应用的个人电脑。",
       "source": "Agent1-早报-2026-08-25",
       "added_date": "2026-08-25",
+      "status": "pending"
+    },
+    {
+      "id": 341,
+      "term": "模型工厂 (Model Factory)",
+      "brief": "一种用于大规模、工业化生产和训练AI模型的平台或方法。",
+      "source": "Agent1-早报-2026-08-26",
+      "added_date": "2026-08-26",
       "status": "pending"
     }
   ]
