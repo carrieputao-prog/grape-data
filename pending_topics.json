@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-26",
+  "last_updated": "2026-09-01",
   "pending": [
     {
       "id": 200,
@@ -1211,6 +1211,14 @@
       "brief": "一种用于大规模、工业化生产和训练AI模型的平台或方法。",
       "source": "Agent1-早报-2026-08-26",
       "added_date": "2026-08-26",
+      "status": "pending"
+    },
+    {
+      "id": 342,
+      "term": "提示注入（Prompt Injection）",
+      "brief": "就像给一个智能助手下达任务，但巧妙地在任务中隐藏了额外的指令，让它误以为这些隐藏指令才是真正的任务，从而做出意想不到的行为。",
+      "source": "Agent1-早报-2026-09-01",
+      "added_date": "2026-09-01",
       "status": "pending"
     }
   ]
