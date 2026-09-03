@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-03",
+  "last_updated": "2026-09-04",
   "pending": [
     {
       "id": 200,
@@ -1243,6 +1243,22 @@
       "brief": "能够从多种数据模态（如文本、图像、视频）中学习和理解真实世界的动态，并进行预测和规划的AI模型。",
       "source": "Agent1-早报-2026-09-03",
       "added_date": "2026-09-03",
+      "status": "pending"
+    },
+    {
+      "id": 346,
+      "term": "Agent Zero Memory",
+      "brief": "描述的是一种没有长期记忆、仅根据当前输入做出决策的AI代理架构。",
+      "source": "Agent1-早报-2026-09-04",
+      "added_date": "2026-09-04",
+      "status": "pending"
+    },
+    {
+      "id": 347,
+      "term": "Freight Physical AI",
+      "brief": "是一种在货运或物流领域中，结合物理系统和人工智能技术进行优化的应用。",
+      "source": "Agent1-早报-2026-09-04",
+      "added_date": "2026-09-04",
       "status": "pending"
     }
   ]
