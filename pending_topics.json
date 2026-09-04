@@ -1260,6 +1260,46 @@
       "source": "Agent1-早报-2026-09-04",
       "added_date": "2026-09-04",
       "status": "pending"
+    },
+    {
+      "id": 243,
+      "term": "专业网络安全AI模型 (Specialized Cybersecurity AI Model)",
+      "module": "工程与应用层",
+      "brief": "一种专注于漏洞检测和自动化补丁的AI模型变体，例如Google DeepMind的Gemini 3.8 Flash Cyber.",
+      "source": "AI Intelligence Briefing",
+      "why_important": "AI安全应用新方向",
+      "added_date": "2026-09-04",
+      "status": "pending"
+    },
+    {
+      "id": 244,
+      "term": "门控安全模型发布 (Gated Security Model Release)",
+      "module": "工程与应用层",
+      "brief": "一种对具有安全敏感性的前沿AI模型进行限制性发布的策略，仅提供给经过审查的防御者，而非普遍开放API.",
+      "source": "AI Intelligence Briefing",
+      "why_important": "前沿模型治理策略",
+      "added_date": "2026-09-04",
+      "status": "pending"
+    },
+    {
+      "id": 245,
+      "term": "Agent的Terraform风格工作流 (Terraform-Style Workflow for Agents)",
+      "module": "工程与应用层",
+      "brief": "一种通过代码管理和部署AI智能体的流程化方法，借鉴了基础设施即代码的理念.",
+      "source": "AlphaSignal",
+      "why_important": "Agent部署自动化",
+      "added_date": "2026-09-04",
+      "status": "pending"
+    },
+    {
+      "id": 246,
+      "term": "模型草稿本 (Model Scratchpad)",
+      "module": "基础认知层",
+      "brief": "指AI模型进行推理时使用的内部工作空间或中间思想过程，用于理解模型如何得出结论.",
+      "source": "AlphaSignal AI (Substack)",
+      "why_important": "理解模型内部机制",
+      "added_date": "2026-09-04",
+      "status": "pending"
     }
   ]
 }
