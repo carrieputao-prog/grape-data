@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-04",
+  "last_updated": "2026-09-06",
   "pending": [
     {
       "id": 200,
@@ -1299,6 +1299,14 @@
       "source": "AlphaSignal AI (Substack)",
       "why_important": "理解模型内部机制",
       "added_date": "2026-09-04",
+      "status": "pending"
+    },
+    {
+      "id": 352,
+      "term": "多模态AI (Multimodal AI)",
+      "brief": "指能够处理和理解来自多种数据类型（如文本、图像、音频）信息的智能系统。",
+      "source": "Agent1-早报-2026-09-06",
+      "added_date": "2026-09-06",
       "status": "pending"
     }
   ]
