@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-06",
+  "last_updated": "2026-09-07",
   "pending": [
     {
       "id": 200,
@@ -1307,6 +1307,22 @@
       "brief": "指能够处理和理解来自多种数据类型（如文本、图像、音频）信息的智能系统。",
       "source": "Agent1-早报-2026-09-06",
       "added_date": "2026-09-06",
+      "status": "pending"
+    },
+    {
+      "id": 353,
+      "term": "AlphaFold 3",
+      "brief": "DeepMind推出的最新AI模型，用于预测生物分子结构和相互作用。",
+      "source": "Agent1-早报-2026-09-07",
+      "added_date": "2026-09-07",
+      "status": "pending"
+    },
+    {
+      "id": 354,
+      "term": "可灵AI",
+      "brief": "快手发布的最新文本生成视频AI模型。",
+      "source": "Agent1-早报-2026-09-07",
+      "added_date": "2026-09-07",
       "status": "pending"
     }
   ]
