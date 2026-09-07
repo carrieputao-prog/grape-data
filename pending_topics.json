@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-07",
+  "last_updated": "2026-09-08",
   "pending": [
     {
       "id": 200,
@@ -1323,6 +1323,22 @@
       "brief": "快手发布的最新文本生成视频AI模型。",
       "source": "Agent1-早报-2026-09-07",
       "added_date": "2026-09-07",
+      "status": "pending"
+    },
+    {
+      "id": 355,
+      "term": "具身智能",
+      "brief": "指的是具有物理身体、能够感知并与真实世界交互的AI系统或技术。",
+      "source": "Agent1-早报-2026-09-08",
+      "added_date": "2026-09-08",
+      "status": "pending"
+    },
+    {
+      "id": 356,
+      "term": "办公Agent",
+      "brief": "指能够理解并执行复杂办公任务、提高工作效率的AI代理程序或解决方案。",
+      "source": "Agent1-早报-2026-09-08",
+      "added_date": "2026-09-08",
       "status": "pending"
     }
   ]
