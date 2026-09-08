@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-08",
+  "last_updated": "2026-09-09",
   "pending": [
     {
       "id": 200,
@@ -1339,6 +1339,14 @@
       "brief": "指能够理解并执行复杂办公任务、提高工作效率的AI代理程序或解决方案。",
       "source": "Agent1-早报-2026-09-08",
       "added_date": "2026-09-08",
+      "status": "pending"
+    },
+    {
+      "id": 357,
+      "term": "代理式人工智能 (Agentic AI)",
+      "brief": "指具备感知、规划、决策和执行能力，能在复杂环境中自主完成任务的AI系统。",
+      "source": "Agent1-早报-2026-09-09",
+      "added_date": "2026-09-09",
       "status": "pending"
     }
   ]
