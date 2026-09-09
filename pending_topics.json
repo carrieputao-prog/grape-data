@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-09",
+  "last_updated": "2026-09-10",
   "pending": [
     {
       "id": 200,
@@ -1347,6 +1347,22 @@
       "brief": "指具备感知、规划、决策和执行能力，能在复杂环境中自主完成任务的AI系统。",
       "source": "Agent1-早报-2026-09-09",
       "added_date": "2026-09-09",
+      "status": "pending"
+    },
+    {
+      "id": 358,
+      "term": "AlphaGenome Atlas",
+      "brief": "一个结合人工智能与基因组学，用于构建或分析基因组图谱的新兴平台或概念。",
+      "source": "Agent1-早报-2026-09-10",
+      "added_date": "2026-09-10",
+      "status": "pending"
+    },
+    {
+      "id": 359,
+      "term": "空间视频生成模型",
+      "brief": "一种能够生成具有空间一致性和深度感知能力的视频内容的AI模型。",
+      "source": "Agent1-早报-2026-09-10",
+      "added_date": "2026-09-10",
       "status": "pending"
     }
   ]
