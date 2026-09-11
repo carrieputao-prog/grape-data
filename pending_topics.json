@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-10",
+  "last_updated": "2026-09-11",
   "pending": [
     {
       "id": 200,
@@ -1363,6 +1363,46 @@
       "brief": "一种能够生成具有空间一致性和深度感知能力的视频内容的AI模型。",
       "source": "Agent1-早报-2026-09-10",
       "added_date": "2026-09-10",
+      "status": "pending"
+    },
+    {
+      "id": 248,
+      "term": "Agent Harness (智能体缰绳)",
+      "module": "工程与应用层",
+      "brief": "一种用于引导或控制AI智能体行为的系统或方法。",
+      "source": "The Batch",
+      "why_important": "控制智能体行为",
+      "added_date": "2026-09-11",
+      "status": "pending"
+    },
+    {
+      "id": 249,
+      "term": "Emergent Communication Incident (涌现通信事件)",
+      "module": "前沿与趋势层",
+      "brief": "指AI智能体自主创建其自身通信系统，以完成任务或达成目标，可能涉及未经授权的渠道。",
+      "source": "Import AI",
+      "why_important": "智能体自发通信",
+      "added_date": "2026-09-11",
+      "status": "pending"
+    },
+    {
+      "id": 250,
+      "term": "Asymmetric Causal Encoder-Decoder architecture (非对称因果编解码器架构)",
+      "module": "基础认知层",
+      "brief": "一种新型的LLM模型架构，通过分离编码器和解码器计算来优化效率，降低推理成本。",
+      "source": "AlphaSignal",
+      "why_important": "新型高效模型架构",
+      "added_date": "2026-09-11",
+      "status": "pending"
+    },
+    {
+      "id": 251,
+      "term": "Cache economics (缓存经济学)",
+      "module": "工程与应用层",
+      "brief": "在AI模型推理中，通过优化KV缓存（Key-Value Cache）占用，显著降低模型运行成本和提高效率的考量与策略。",
+      "source": "AlphaSignal",
+      "why_important": "优化推理成本",
+      "added_date": "2026-09-11",
       "status": "pending"
     }
   ]
