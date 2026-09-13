@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-13",
+  "last_updated": "2026-09-14",
   "pending": [
     {
       "id": 200,
@@ -1435,6 +1435,14 @@
       "brief": "指能够理解和处理多种类型数据（如文本、图像、语音），并具备类人通用智能的AI系统。",
       "source": "Agent1-早报-2026-09-13",
       "added_date": "2026-09-13",
+      "status": "pending"
+    },
+    {
+      "id": 368,
+      "term": "完全自训练体系 (Fully Self-Training System)",
+      "brief": "指无需人工标注数据或外部监督，通过内部机制持续生成训练数据并自我迭代优化的AI系统或模型。",
+      "source": "SelfTraining1-早报-2026-09-14",
+      "added_date": "2026-09-14",
       "status": "pending"
     }
   ]
