@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-17",
+  "last_updated": "2026-09-18",
   "pending": [
     {
       "id": 200,
@@ -1483,6 +1483,22 @@
       "brief": "指能够自主行动、决策并实现目标的AI系统。",
       "source": "Agent1-早报-2026-09-17",
       "added_date": "2026-09-17",
+      "status": "pending"
+    },
+    {
+      "id": 374,
+      "term": "递归式自我改进 (RSI)",
+      "brief": "指一个智能系统能够通过修改自身的代码、架构或学习算法来迭代地提升自身性能和智能水平的能力。",
+      "source": "Agent1-早报-2026-09-18",
+      "added_date": "2026-09-18",
+      "status": "pending"
+    },
+    {
+      "id": 375,
+      "term": "具身智能数据清洗 (Embodied AI Data Cleaning)",
+      "brief": "指的是处理和净化具身智能系统从真实世界交互中收集的复杂、多模态且可能充满噪声的数据的过程。",
+      "source": "Agent1-早报-2026-09-18",
+      "added_date": "2026-09-18",
       "status": "pending"
     }
   ]
