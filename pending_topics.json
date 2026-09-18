@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-18",
+  "last_updated": "2026-09-19",
   "pending": [
     {
       "id": 200,
@@ -1539,6 +1539,14 @@
       "source": "September 2026 AI Model Updates: Every Launch, Price Move, and Architecture Shift",
       "why_important": "模型安全部署",
       "added_date": "2026-09-18",
+      "status": "pending"
+    },
+    {
+      "id": 380,
+      "term": "不透明序列深度 (Opaque Sequence Depth)",
+      "brief": "一个高度专业的AI概念，可能指在序列处理模型中，内部操作或信息流在特定深度后变得不透明的特性。",
+      "source": "Agent1-早报-2026-09-19",
+      "added_date": "2026-09-19",
       "status": "pending"
     }
   ]
