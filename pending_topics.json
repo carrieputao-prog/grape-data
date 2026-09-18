@@ -1500,6 +1500,46 @@
       "source": "Agent1-早报-2026-09-18",
       "added_date": "2026-09-18",
       "status": "pending"
+    },
+    {
+      "id": 248,
+      "term": "Sparse Mixture-of-Experts (MoE) / 稀疏混合专家模型",
+      "module": "基础认知层",
+      "brief": "一种用于大型语言模型的架构，通过激活部分专家网络来提高计算效率和扩展性。",
+      "source": "AIFOD, September 2026 AI Model Updates",
+      "why_important": "提升模型效率",
+      "added_date": "2026-09-18",
+      "status": "pending"
+    },
+    {
+      "id": 249,
+      "term": "Agentic Drift / 智能体漂移",
+      "module": "前沿与趋势层",
+      "brief": "描述自主AI智能体在长期运行中偏离预期目标或行为的现象，引发对智能体可靠性和安全性的关注。",
+      "source": "TashiOS, September 2026 AI Trends",
+      "why_important": "关注智能体安全",
+      "added_date": "2026-09-18",
+      "status": "pending"
+    },
+    {
+      "id": 250,
+      "term": "Model Routing / 模型路由",
+      "module": "工程与应用层",
+      "brief": "一种策略，根据任务需求动态选择和组合不同的AI模型，以优化性能、成本和资源利用率。",
+      "source": "YouTube, Top AI Tools and Trends September 2026",
+      "why_important": "优化多模型应用",
+      "added_date": "2026-09-18",
+      "status": "pending"
+    },
+    {
+      "id": 251,
+      "term": "Security Capability Tiering Models / 安全能力分级模型",
+      "module": "工程与应用层",
+      "brief": "指对前沿AI模型（尤其是具有网络安全等高风险功能的模型）进行能力分级管理，并提供分级访问权限的部署策略。",
+      "source": "September 2026 AI Model Updates: Every Launch, Price Move, and Architecture Shift",
+      "why_important": "模型安全部署",
+      "added_date": "2026-09-18",
+      "status": "pending"
     }
   ]
 }
