@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-19",
+  "last_updated": "2026-09-20",
   "pending": [
     {
       "id": 200,
@@ -1547,6 +1547,14 @@
       "brief": "一个高度专业的AI概念，可能指在序列处理模型中，内部操作或信息流在特定深度后变得不透明的特性。",
       "source": "Agent1-早报-2026-09-19",
       "added_date": "2026-09-19",
+      "status": "pending"
+    },
+    {
+      "id": 381,
+      "term": "具身智能模型 (Embodied AI Model)",
+      "brief": "指与物理世界（或模拟世界）有身体交互能力的AI模型。",
+      "source": "Agent1-早报-2026-09-20",
+      "added_date": "2026-09-20",
       "status": "pending"
     }
   ]
