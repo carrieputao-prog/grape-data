@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-20",
+  "last_updated": "2026-09-21",
   "pending": [
     {
       "id": 200,
@@ -1555,6 +1555,14 @@
       "brief": "指与物理世界（或模拟世界）有身体交互能力的AI模型。",
       "source": "Agent1-早报-2026-09-20",
       "added_date": "2026-09-20",
+      "status": "pending"
+    },
+    {
+      "id": 382,
+      "term": "研发自动化指数 (R&D Automation Index)",
+      "brief": "衡量研发过程中自动化程度的指标，可能与AI技术在研发流程中的应用紧密相关。",
+      "source": "Agent1-早报-2026-09-21",
+      "added_date": "2026-09-21",
       "status": "pending"
     }
   ]
