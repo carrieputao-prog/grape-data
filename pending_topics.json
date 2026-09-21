@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-21",
+  "last_updated": "2026-09-22",
   "pending": [
     {
       "id": 200,
@@ -1563,6 +1563,22 @@
       "brief": "衡量研发过程中自动化程度的指标，可能与AI技术在研发流程中的应用紧密相关。",
       "source": "Agent1-早报-2026-09-21",
       "added_date": "2026-09-21",
+      "status": "pending"
+    },
+    {
+      "id": 383,
+      "term": "递归自我改进 (RSI)",
+      "brief": "指AI系统不断提升自身智能和能力，可能导致智能的指数级增长。",
+      "source": "Agent1-早报-2026-09-22",
+      "added_date": "2026-09-22",
+      "status": "pending"
+    },
+    {
+      "id": 384,
+      "term": "对齐失效",
+      "brief": "指AI系统未能按照人类意图、价值观或目标行事的问题。",
+      "source": "Agent1-早报-2026-09-22",
+      "added_date": "2026-09-22",
       "status": "pending"
     }
   ]
