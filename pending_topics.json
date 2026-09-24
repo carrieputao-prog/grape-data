@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-24",
+  "last_updated": "2026-09-25",
   "pending": [
     {
       "id": 200,
@@ -1603,6 +1603,14 @@
       "brief": "指AI系统通过迭代式地修改和优化自身代码或架构来不断提升智能水平的能力。",
       "source": "Agent1-早报-2026-09-24",
       "added_date": "2026-09-24",
+      "status": "pending"
+    },
+    {
+      "id": 388,
+      "term": "Physical AI",
+      "brief": "指能与物理世界交互、感知、推理并行动的人工智能系统，常与机器人技术结合。",
+      "source": "Agent1-早报-2026-09-25",
+      "added_date": "2026-09-25",
       "status": "pending"
     }
   ]
