@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-26",
+  "last_updated": "2026-09-27",
   "pending": [
     {
       "id": 200,
@@ -1619,6 +1619,14 @@
       "brief": "指将AI系统集成到物理载体（如机器人）中，使其能与物理世界交互并学习的技术。",
       "source": "Agent1-早报-2026-09-26",
       "added_date": "2026-09-26",
+      "status": "pending"
+    },
+    {
+      "id": 390,
+      "term": "端侧AI",
+      "brief": "指的是在用户终端设备上直接运行人工智能模型和算法，而非依赖云计算。",
+      "source": "Agent1-早报-今日",
+      "added_date": "2026-09-27",
       "status": "pending"
     }
   ]
