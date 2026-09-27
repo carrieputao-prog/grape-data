@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-27",
+  "last_updated": "2026-09-28",
   "pending": [
     {
       "id": 200,
@@ -1627,6 +1627,14 @@
       "brief": "指的是在用户终端设备上直接运行人工智能模型和算法，而非依赖云计算。",
       "source": "Agent1-早报-今日",
       "added_date": "2026-09-27",
+      "status": "pending"
+    },
+    {
+      "id": 391,
+      "term": "类脑芯片 (Neuromorphic chip)",
+      "brief": "一种模仿人脑结构和工作原理设计，旨在高效处理人工智能任务的计算芯片。",
+      "source": "Agent1-早报-2026-09-28",
+      "added_date": "2026-09-28",
       "status": "pending"
     }
   ]
