@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-28",
+  "last_updated": "2026-09-29",
   "pending": [
     {
       "id": 200,
@@ -1635,6 +1635,22 @@
       "brief": "一种模仿人脑结构和工作原理设计，旨在高效处理人工智能任务的计算芯片。",
       "source": "Agent1-早报-2026-09-28",
       "added_date": "2026-09-28",
+      "status": "pending"
+    },
+    {
+      "id": 392,
+      "term": "Quantum-Enhanced LLM",
+      "brief": "通过量子计算原理或硬件改进或加速的大型语言模型。",
+      "source": "Agent1-早报-2026-09-29",
+      "added_date": "2026-09-29",
+      "status": "pending"
+    },
+    {
+      "id": 393,
+      "term": "Q4AI",
+      "brief": "可能是Quantum for AI的缩写，指将量子计算技术和原理应用于增强人工智能。",
+      "source": "Agent1-早报-2026-09-29",
+      "added_date": "2026-09-29",
       "status": "pending"
     }
   ]
