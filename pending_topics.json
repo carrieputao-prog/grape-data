@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-29",
+  "last_updated": "2026-09-30",
   "pending": [
     {
       "id": 200,
@@ -1651,6 +1651,14 @@
       "brief": "可能是Quantum for AI的缩写，指将量子计算技术和原理应用于增强人工智能。",
       "source": "Agent1-早报-2026-09-29",
       "added_date": "2026-09-29",
+      "status": "pending"
+    },
+    {
+      "id": 394,
+      "term": "AI智能体",
+      "brief": "指具备感知、决策、行动能力的AI实体，能在复杂环境中自主完成任务。",
+      "source": "Agent1-早报-2026-09-30",
+      "added_date": "2026-09-30",
       "status": "pending"
     }
   ]
