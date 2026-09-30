@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-30",
+  "last_updated": "2026-10-01",
   "pending": [
     {
       "id": 200,
@@ -1659,6 +1659,30 @@
       "brief": "指具备感知、决策、行动能力的AI实体，能在复杂环境中自主完成任务。",
       "source": "Agent1-早报-2026-09-30",
       "added_date": "2026-09-30",
+      "status": "pending"
+    },
+    {
+      "id": 395,
+      "term": "智能体",
+      "brief": "指能感知环境并自主行动以实现目标的AI实体，在LLM时代重新受到关注。",
+      "source": "Agent1-早报-2023-10-27",
+      "added_date": "2026-10-01",
+      "status": "pending"
+    },
+    {
+      "id": 396,
+      "term": "超级智能 (SI)",
+      "brief": "指在所有领域都超越人类智能的假设性AI，其讨论随着当前AI发展而日益增多。",
+      "source": "Agent1-早报-2023-10-27",
+      "added_date": "2026-10-01",
+      "status": "pending"
+    },
+    {
+      "id": 397,
+      "term": "多模态大模型",
+      "brief": "能够理解、处理并生成多种类型数据（如文本、图像、音频）的巨型AI模型。",
+      "source": "Agent1-早报-2023-10-27",
+      "added_date": "2026-10-01",
       "status": "pending"
     }
   ]
