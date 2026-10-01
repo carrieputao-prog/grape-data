@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-01",
+  "last_updated": "2026-10-02",
   "pending": [
     {
       "id": 200,
@@ -1683,6 +1683,22 @@
       "brief": "能够理解、处理并生成多种类型数据（如文本、图像、音频）的巨型AI模型。",
       "source": "Agent1-早报-2023-10-27",
       "added_date": "2026-10-01",
+      "status": "pending"
+    },
+    {
+      "id": 398,
+      "term": "对抗性蒸馏 (Adversarial Distillation)",
+      "brief": "一种知识蒸馏技术，通过引入对抗性训练来提高模型压缩或知识迁移的性能和鲁棒性。",
+      "source": "Agent1-早报-2026-10-02",
+      "added_date": "2026-10-02",
+      "status": "pending"
+    },
+    {
+      "id": 399,
+      "term": "智能体AI (AI Agent)",
+      "brief": "能够自主感知环境、做出决策并执行动作以达成特定目标的人工智能实体或系统。",
+      "source": "Agent1-早报-2026-10-02",
+      "added_date": "2026-10-02",
       "status": "pending"
     }
   ]
