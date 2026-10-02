@@ -1700,6 +1700,26 @@
       "source": "Agent1-早报-2026-10-02",
       "added_date": "2026-10-02",
       "status": "pending"
+    },
+    {
+      "id": 248,
+      "term": "Workspace Agent（工作区智能体）",
+      "module": "工程与应用层",
+      "brief": "OpenAI新架构下的智能体，结合插件实现更复杂的、定制化的工作流和应用。",
+      "source": "IT Specialist",
+      "why_important": "OpenAI新应用架构",
+      "added_date": "2026-10-02",
+      "status": "pending"
+    },
+    {
+      "id": 249,
+      "term": "AI Token Economy（AI代币经济）",
+      "module": "前沿与趋势层",
+      "brief": "连接AI应用与底层计算资源、能源和基础设施的经济体系，代表AI产业发展新视角。",
+      "source": "AMBCrypto",
+      "why_important": "AI产业经济模式",
+      "added_date": "2026-10-02",
+      "status": "pending"
     }
   ]
 }
