@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-02",
+  "last_updated": "2026-10-05",
   "pending": [
     {
       "id": 200,
@@ -1719,6 +1719,22 @@
       "source": "AMBCrypto",
       "why_important": "AI产业经济模式",
       "added_date": "2026-10-02",
+      "status": "pending"
+    },
+    {
+      "id": 402,
+      "term": "代理式AI",
+      "brief": "指能够自主规划、推理并采取行动以达成目标的AI系统。",
+      "source": "Agent1-早报-2026-10-05",
+      "added_date": "2026-10-05",
+      "status": "pending"
+    },
+    {
+      "id": 403,
+      "term": "世界模型",
+      "brief": "指AI系统内部构建的关于环境及其动态的表征，用于预测和规划。",
+      "source": "Agent1-早报-2026-10-05",
+      "added_date": "2026-10-05",
       "status": "pending"
     }
   ]
