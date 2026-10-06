@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-05",
+  "last_updated": "2026-10-06",
   "pending": [
     {
       "id": 200,
@@ -1735,6 +1735,22 @@
       "brief": "指AI系统内部构建的关于环境及其动态的表征，用于预测和规划。",
       "source": "Agent1-早报-2026-10-05",
       "added_date": "2026-10-05",
+      "status": "pending"
+    },
+    {
+      "id": 404,
+      "term": "Llama 5",
+      "brief": "Meta公司开发的大型语言模型Llama系列的未来迭代版本。",
+      "source": "Agent1-早报-2026-10-06",
+      "added_date": "2026-10-06",
+      "status": "pending"
+    },
+    {
+      "id": 405,
+      "term": "Instinct MI400",
+      "brief": "AMD公司面向AI和高性能计算的数据中心GPU系列Instinct的未来型号。",
+      "source": "Agent1-早报-2026-10-06",
+      "added_date": "2026-10-06",
       "status": "pending"
     }
   ]
