@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-06",
+  "last_updated": "2026-10-07",
   "pending": [
     {
       "id": 200,
@@ -1751,6 +1751,14 @@
       "brief": "AMD公司面向AI和高性能计算的数据中心GPU系列Instinct的未来型号。",
       "source": "Agent1-早报-2026-10-06",
       "added_date": "2026-10-06",
+      "status": "pending"
+    },
+    {
+      "id": 406,
+      "term": "万亿参数模型",
+      "brief": "指参数量达到万亿级别的人工智能模型，代表着当前AI模型规模的最新进展。",
+      "source": "Agent1-早报-2026-10-07",
+      "added_date": "2026-10-07",
       "status": "pending"
     }
   ]
