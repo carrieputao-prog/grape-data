@@ -1776,6 +1776,56 @@
       "source": "Agent1-早报-2026-10-09",
       "added_date": "2026-10-09",
       "status": "pending"
+    },
+    {
+      "id": 248,
+      "term": "Monitorability Disposition (可监控性倾向)",
+      "module": "前沿与趋势层",
+      "brief": "模型在推理过程中，在有必要时愿意自我报告其错误行为的能力。",
+      "source": "arXiv / Latent Space",
+      "why_important": "新颖且重要的安全评估维度。",
+      "added_date": "2026-10-09",
+      "status": "pending"
+    },
+    {
+      "id": 249,
+      "term": "First-Order Steering (一阶引导)",
+      "module": "基础认知层",
+      "brief": "一种激活引导方法，通过一阶近似将权重适应性转化为可组合的引导向量以操纵模型行为。",
+      "source": "arXiv",
+      "why_important": "推理时模型行为控制新方法。",
+      "added_date": "2026-10-09",
+      "status": "pending"
+    },
+    {
+      "id": 250,
+      "term": "AI Swarms (AI 群体)",
+      "module": "前沿与趋势层",
+      "brief": "指多个AI智能体协同工作以完成任务，并实现超越个体能力的总和效应。",
+      "source": "Import AI",
+      "why_important": "提升多智能体协作能力新范式。",
+      "added_date": "2026-10-09",
+      "status": "pending"
+    },
+    {
+      "id": 251,
+      "term": "Epistemic Humility (认知谦逊)",
+      "module": "前沿与趋势层",
+      "brief": "指LLM智能体在面对知识冲突时，认识到自身知识局限性并表现出不确定性的能力。",
+      "source": "arXiv",
+      "why_important": "评估LLM可靠性关键属性。",
+      "added_date": "2026-10-09",
+      "status": "pending"
+    },
+    {
+      "id": 252,
+      "term": "Catastrophic Remembering (灾难性记忆)",
+      "module": "工程与应用层",
+      "brief": "智能体因不断添加规则以修复错误，导致记忆过载或行为僵化，难以适应新情况。",
+      "source": "AlphaSignal AI",
+      "why_important": "智能体开发面临的新挑战。",
+      "added_date": "2026-10-09",
+      "status": "pending"
     }
   ]
 }
