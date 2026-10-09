@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-09",
+  "last_updated": "2026-10-10",
   "pending": [
     {
       "id": 200,
@@ -1825,6 +1825,14 @@
       "source": "AlphaSignal AI",
       "why_important": "智能体开发面临的新挑战。",
       "added_date": "2026-10-09",
+      "status": "pending"
+    },
+    {
+      "id": 414,
+      "term": "稀疏算力 (Sparse Computing Power)",
+      "brief": "指针对稀疏数据或模型进行高效计算的能力，是优化大型AI模型性能的关键技术。",
+      "source": "Agent1-早报-2026-10-10",
+      "added_date": "2026-10-10",
       "status": "pending"
     }
   ]
