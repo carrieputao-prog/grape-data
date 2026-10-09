@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-08",
+  "last_updated": "2026-10-09",
   "pending": [
     {
       "id": 200,
@@ -1767,6 +1767,14 @@
       "brief": "指AI系统能够综合处理和理解来自不同模态（如文本、语音、图像、视频）输入的用户意图。",
       "source": "Agent1-早报-2026-10-08",
       "added_date": "2026-10-08",
+      "status": "pending"
+    },
+    {
+      "id": 408,
+      "term": "多模态AI智能体 (Multimodal AI Agent)",
+      "brief": "结合了多种数据模态（如视觉、听觉、文本）进行感知、理解和交互的智能体AI。",
+      "source": "Agent1-早报-2026-10-09",
+      "added_date": "2026-10-09",
       "status": "pending"
     }
   ]
