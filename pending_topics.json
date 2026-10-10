@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-10",
+  "last_updated": "2026-10-11",
   "pending": [
     {
       "id": 200,
@@ -1833,6 +1833,14 @@
       "brief": "指针对稀疏数据或模型进行高效计算的能力，是优化大型AI模型性能的关键技术。",
       "source": "Agent1-早报-2026-10-10",
       "added_date": "2026-10-10",
+      "status": "pending"
+    },
+    {
+      "id": 415,
+      "term": "SynthID",
+      "brief": "Google DeepMind开发的一种数字水印技术，用于识别由AI模型生成的图像内容。",
+      "source": "Agent1-早报-2026-10-11",
+      "added_date": "2026-10-11",
       "status": "pending"
     }
   ]
