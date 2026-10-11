@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-11",
+  "last_updated": "2026-10-12",
   "pending": [
     {
       "id": 200,
@@ -1841,6 +1841,14 @@
       "brief": "Google DeepMind开发的一种数字水印技术，用于识别由AI模型生成的图像内容。",
       "source": "Agent1-早报-2026-10-11",
       "added_date": "2026-10-11",
+      "status": "pending"
+    },
+    {
+      "id": 416,
+      "term": "AI推理基础设施 (AI Inference Infrastructure)",
+      "brief": "指用于运行已训练AI模型进行预测或决策所需的硬件和软件系统。",
+      "source": "Agent1-早报-2026-10-12",
+      "added_date": "2026-10-12",
       "status": "pending"
     }
   ]
