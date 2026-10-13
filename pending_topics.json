@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-12",
+  "last_updated": "2026-10-13",
   "pending": [
     {
       "id": 200,
@@ -1849,6 +1849,22 @@
       "brief": "指用于运行已训练AI模型进行预测或决策所需的硬件和软件系统。",
       "source": "Agent1-早报-2026-10-12",
       "added_date": "2026-10-12",
+      "status": "pending"
+    },
+    {
+      "id": 417,
+      "term": "AI蒸馏攻击 (AI Distillation Attack)",
+      "brief": "针对AI模型蒸馏过程的安全漏洞或攻击方法。",
+      "source": "Agent1-早报-2026-10-13",
+      "added_date": "2026-10-13",
+      "status": "pending"
+    },
+    {
+      "id": 418,
+      "term": "价值对齐 (Value Alignment)",
+      "brief": "确保人工智能系统的目标和行为与人类价值观相符的研究领域和实践。",
+      "source": "Agent1-早报-2026-10-13",
+      "added_date": "2026-10-13",
       "status": "pending"
     }
   ]
