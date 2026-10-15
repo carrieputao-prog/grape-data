@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-15",
+  "last_updated": "2026-10-16",
   "pending": [
     {
       "id": 200,
@@ -1889,6 +1889,30 @@
       "brief": "指在智能手机、物联网设备等终端设备上运行的轻量化大型AI模型，通常经过优化以适应有限的计算资源。",
       "source": "Agent1-早报-2026-10-15",
       "added_date": "2026-10-15",
+      "status": "pending"
+    },
+    {
+      "id": 422,
+      "term": "Next-Concept Modeling",
+      "brief": "一种专注于学习和预测序列或领域中后续或相关概念的AI建模方法。",
+      "source": "Agent1-早报-2026-10-16",
+      "added_date": "2026-10-16",
+      "status": "pending"
+    },
+    {
+      "id": 423,
+      "term": "Embodied Intelligence",
+      "brief": "一种AI范式，其中智能通过智能体与环境和身体的物理交互而发展。",
+      "source": "Agent1-早报-2026-10-16",
+      "added_date": "2026-10-16",
+      "status": "pending"
+    },
+    {
+      "id": 424,
+      "term": "Small AI",
+      "brief": "指那些为效率、特定任务和更低资源消耗而设计的AI系统或模型，与大型通用AI形成对比。",
+      "source": "Agent1-早报-2026-10-16",
+      "added_date": "2026-10-16",
       "status": "pending"
     }
   ]
