@@ -1914,6 +1914,46 @@
       "source": "Agent1-早报-2026-10-16",
       "added_date": "2026-10-16",
       "status": "pending"
+    },
+    {
+      "id": 248,
+      "term": "人工审核构件 (Artifacts for human review)",
+      "module": "工程与应用层",
+      "brief": "在AI工作流中，需要人工介入审查和验证的AI生成内容或中间产物。",
+      "source": "The Batch (Andrew Ng) / Lawrence Teixeira",
+      "why_important": "提高AI可靠性",
+      "added_date": "2026-10-16",
+      "status": "pending"
+    },
+    {
+      "id": 249,
+      "term": "智能体管理器 (Agent Manager)",
+      "module": "工程与应用层",
+      "brief": "负责协调和管理多个AI智能体，以完成复杂任务的系统或角色。",
+      "source": "The Batch (Andrew Ng) / Lawrence Teixeira",
+      "why_important": "智能体编排核心",
+      "added_date": "2026-10-16",
+      "status": "pending"
+    },
+    {
+      "id": 250,
+      "term": "谷歌反重力架构 (Google Antigravity Architecture)",
+      "module": "工程与应用层",
+      "brief": "谷歌提出的一种以智能体为核心，专注于AI原生开发的平台架构。",
+      "source": "Lawrence Teixeira",
+      "why_important": "AI原生开发范式",
+      "added_date": "2026-10-16",
+      "status": "pending"
+    },
+    {
+      "id": 251,
+      "term": "AI逆向工程 (AI-powered Reverse Engineering / REA)",
+      "module": "工程与应用层",
+      "brief": "利用人工智能技术来分析、理解或重构现有软件或系统的过程。",
+      "source": "清华姜学长 B站",
+      "why_important": "拓展AI应用边界",
+      "added_date": "2026-10-16",
+      "status": "pending"
     }
   ]
 }
