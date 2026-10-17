@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-16",
+  "last_updated": "2026-10-18",
   "pending": [
     {
       "id": 200,
@@ -1953,6 +1953,14 @@
       "source": "清华姜学长 B站",
       "why_important": "拓展AI应用边界",
       "added_date": "2026-10-16",
+      "status": "pending"
+    },
+    {
+      "id": 429,
+      "term": "MoE模型",
+      "brief": "一种机器学习模型架构，通过组合多个“专家”网络，并使用一个门控网络来选择或组合这些专家的输出。",
+      "source": "Agent1-早报-2026-10-18",
+      "added_date": "2026-10-18",
       "status": "pending"
     }
   ]
