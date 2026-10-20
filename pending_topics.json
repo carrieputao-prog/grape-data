@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-19",
+  "last_updated": "2026-10-21",
   "pending": [
     {
       "id": 200,
@@ -1969,6 +1969,22 @@
       "brief": "一种专为在本地设备（如智能手机、物联网设备）上运行AI模型而设计的处理器。",
       "source": "Agent1-早报-2026-10-19",
       "added_date": "2026-10-19",
+      "status": "pending"
+    },
+    {
+      "id": 431,
+      "term": "Multimodal AI",
+      "brief": "指能够处理和理解多种类型数据（如文本、图像、音频、视频）的AI系统。",
+      "source": "Agent1-早报-2026-10-21",
+      "added_date": "2026-10-21",
+      "status": "pending"
+    },
+    {
+      "id": 432,
+      "term": "AI Supercluster",
+      "brief": "指专为大规模AI模型训练和开发设计的高性能计算基础设施，通常包含大量GPU。",
+      "source": "Agent1-早报-2026-10-21",
+      "added_date": "2026-10-21",
       "status": "pending"
     }
   ]
