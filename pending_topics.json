@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-21",
+  "last_updated": "2026-10-22",
   "pending": [
     {
       "id": 200,
@@ -1985,6 +1985,14 @@
       "brief": "指专为大规模AI模型训练和开发设计的高性能计算基础设施，通常包含大量GPU。",
       "source": "Agent1-早报-2026-10-21",
       "added_date": "2026-10-21",
+      "status": "pending"
+    },
+    {
+      "id": 433,
+      "term": "Constitutional AI Audit Framework",
+      "brief": "一种新兴的AI安全和对齐概念，通过设定原则（宪法）来指导AI行为，并提供审计框架进行评估。",
+      "source": "Agent1-早报-2026-10-22",
+      "added_date": "2026-10-22",
       "status": "pending"
     }
   ]
