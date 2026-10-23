@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-22",
+  "last_updated": "2026-10-24",
   "pending": [
     {
       "id": 200,
@@ -1993,6 +1993,22 @@
       "brief": "一种新兴的AI安全和对齐概念，通过设定原则（宪法）来指导AI行为，并提供审计框架进行评估。",
       "source": "Agent1-早报-2026-10-22",
       "added_date": "2026-10-22",
+      "status": "pending"
+    },
+    {
+      "id": 434,
+      "term": "Agent Compute Engine",
+      "brief": "用于运行、管理和优化AI代理任务或操作的计算平台或系统。",
+      "source": "Agent1-早报-2026-10-24",
+      "added_date": "2026-10-24",
+      "status": "pending"
+    },
+    {
+      "id": 435,
+      "term": "Frontier Models",
+      "brief": "代表当前AI技术最先进水平、具有尖端能力和规模的大型模型。",
+      "source": "Agent1-早报-2026-10-24",
+      "added_date": "2026-10-24",
       "status": "pending"
     }
   ]
