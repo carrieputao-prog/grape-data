@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-24",
+  "last_updated": "2026-10-25",
   "pending": [
     {
       "id": 200,
@@ -2009,6 +2009,14 @@
       "brief": "代表当前AI技术最先进水平、具有尖端能力和规模的大型模型。",
       "source": "Agent1-早报-2026-10-24",
       "added_date": "2026-10-24",
+      "status": "pending"
+    },
+    {
+      "id": 436,
+      "term": "AI原生媒体编码",
+      "brief": "指利用AI技术从底层设计和优化媒体编码流程，实现更高效、高质量的内容处理。",
+      "source": "Agent1-早报-2026-10-25",
+      "added_date": "2026-10-25",
       "status": "pending"
     }
   ]
