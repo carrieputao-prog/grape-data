@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-25",
+  "last_updated": "2026-10-26",
   "pending": [
     {
       "id": 200,
@@ -2017,6 +2017,22 @@
       "brief": "指利用AI技术从底层设计和优化媒体编码流程，实现更高效、高质量的内容处理。",
       "source": "Agent1-早报-2026-10-25",
       "added_date": "2026-10-25",
+      "status": "pending"
+    },
+    {
+      "id": 437,
+      "term": "通用机器人模型 (General Robot Model)",
+      "brief": "指一种能够适应多种机器人平台或任务，实现通用能力的人工智能模型。",
+      "source": "Agent1-早报-2026-10-26",
+      "added_date": "2026-10-26",
+      "status": "pending"
+    },
+    {
+      "id": 438,
+      "term": "事实校准框架 (Fact Calibration Framework)",
+      "brief": "一种旨在确保AI系统（特别是大型语言模型）输出信息准确性和真实性的方法或体系。",
+      "source": "Agent1-早报-2026-10-26",
+      "added_date": "2026-10-26",
       "status": "pending"
     }
   ]
