@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-27",
+  "last_updated": "2026-10-29",
   "pending": [
     {
       "id": 200,
@@ -2041,6 +2041,14 @@
       "brief": "指在自然语言处理中，文本被分解成的最小有意义单位，是大型语言模型处理输入和生成输出的基础。",
       "source": "Agent1-早报-2026-10-27",
       "added_date": "2026-10-27",
+      "status": "pending"
+    },
+    {
+      "id": 440,
+      "term": "算法投毒 (Algorithm Poisoning)",
+      "brief": "一种机器学习安全攻击，通过污染训练数据来影响模型的行为和性能。",
+      "source": "算法投毒-早报-2024-05-15",
+      "added_date": "2026-10-29",
       "status": "pending"
     }
   ]
