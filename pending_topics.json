@@ -2058,6 +2058,46 @@
       "source": "Agent1-早报-2026-10-30",
       "added_date": "2026-10-30",
       "status": "pending"
+    },
+    {
+      "id": 248,
+      "term": "Abliteration (销毁/擦除)",
+      "module": "前沿与趋势层",
+      "brief": "移除AI模型的安全防护和拒绝机制的过程，使其可能接受有害请求。",
+      "source": "CBS News, Generative AI",
+      "why_important": "新的AI模型风险",
+      "added_date": "2026-10-30",
+      "status": "pending"
+    },
+    {
+      "id": 249,
+      "term": "Next-Concept Modeling (NCM / 下一概念建模)",
+      "module": "基础认知层",
+      "brief": "一种新的AI模型架构，通过将序列表示为离散代码的层次结构来生成文本，而非逐词元生成，显著提升效率。",
+      "source": "AlphaSignal",
+      "why_important": "文本生成新范式",
+      "added_date": "2026-10-30",
+      "status": "pending"
+    },
+    {
+      "id": 250,
+      "term": "AI Orchestration (AI编排)",
+      "module": "工程与应用层",
+      "brief": "协调和管理多个智能体、工具和任务以完成复杂工作流的层。",
+      "source": "SparkFire Solutions",
+      "why_important": "多智能体协同核心",
+      "added_date": "2026-10-30",
+      "status": "pending"
+    },
+    {
+      "id": 251,
+      "term": "Model Context Protocol (MCP / 模型上下文协议)",
+      "module": "工程与应用层",
+      "brief": "一种连接AI模型与工具、文件、数据库和业务系统的开放标准协议。",
+      "source": "SparkFire Solutions, Agile Insider",
+      "why_important": "AI工具集成标准",
+      "added_date": "2026-10-30",
+      "status": "pending"
     }
   ]
 }
