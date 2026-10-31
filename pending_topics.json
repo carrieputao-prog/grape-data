@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-30",
+  "last_updated": "2026-11-01",
   "pending": [
     {
       "id": 200,
@@ -2097,6 +2097,30 @@
       "source": "SparkFire Solutions, Agile Insider",
       "why_important": "AI工具集成标准",
       "added_date": "2026-10-30",
+      "status": "pending"
+    },
+    {
+      "id": 446,
+      "term": "触觉-视觉-语言模型 (Haptic-Vision-Language Model)",
+      "brief": "一种结合触觉、视觉和语言信息，旨在实现更全面感知和交互的多模态AI模型。",
+      "source": "Agent1-早报-2026-11-01",
+      "added_date": "2026-11-01",
+      "status": "pending"
+    },
+    {
+      "id": 447,
+      "term": "AI可信度指数 (AI Trustworthiness Index)",
+      "brief": "一个评估和量化AI系统在可靠性、公平性、安全性、透明度等方面的指标或框架。",
+      "source": "Agent1-早报-2026-11-01",
+      "added_date": "2026-11-01",
+      "status": "pending"
+    },
+    {
+      "id": 448,
+      "term": "Gaia芯片架构 (Gaia Chip Architecture)",
+      "brief": "一种新设计或提出的AI专用硬件架构，旨在优化AI计算性能和效率。",
+      "source": "Agent1-早报-2026-11-01",
+      "added_date": "2026-11-01",
       "status": "pending"
     }
   ]
