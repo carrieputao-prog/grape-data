@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-01",
+  "last_updated": "2026-11-02",
   "pending": [
     {
       "id": 200,
@@ -2121,6 +2121,22 @@
       "brief": "一种新设计或提出的AI专用硬件架构，旨在优化AI计算性能和效率。",
       "source": "Agent1-早报-2026-11-01",
       "added_date": "2026-11-01",
+      "status": "pending"
+    },
+    {
+      "id": 449,
+      "term": "算力网 (Compute Network)",
+      "brief": "一种将分散计算资源整合起来，形成统一调度以满足AI等大规模计算需求的网络。",
+      "source": "Agent1-早报-2026-11-02",
+      "added_date": "2026-11-02",
+      "status": "pending"
+    },
+    {
+      "id": 450,
+      "term": "文本水印 (Text Watermark)",
+      "brief": "一种在文本内容中嵌入隐蔽标记的技术，常用于识别AI生成文本或追踪信息来源。",
+      "source": "Agent1-早报-2026-11-02",
+      "added_date": "2026-11-02",
       "status": "pending"
     }
   ]
