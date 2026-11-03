@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-02",
+  "last_updated": "2026-11-03",
   "pending": [
     {
       "id": 200,
@@ -2137,6 +2137,22 @@
       "brief": "一种在文本内容中嵌入隐蔽标记的技术，常用于识别AI生成文本或追踪信息来源。",
       "source": "Agent1-早报-2026-11-02",
       "added_date": "2026-11-02",
+      "status": "pending"
+    },
+    {
+      "id": 451,
+      "term": "Distillation Attacks",
+      "brief": "一种针对AI模型知识蒸馏过程的攻击，旨在损害模型的性能或安全性。",
+      "source": "Agent1-早报-2026-11-03",
+      "added_date": "2026-11-03",
+      "status": "pending"
+    },
+    {
+      "id": 452,
+      "term": "World Models",
+      "brief": "指AI代理学习其环境的内部表示，以便预测未来状态和规划行动的模型。",
+      "source": "Agent1-早报-2026-11-03",
+      "added_date": "2026-11-03",
       "status": "pending"
     }
   ]
