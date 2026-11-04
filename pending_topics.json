@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-03",
+  "last_updated": "2026-11-04",
   "pending": [
     {
       "id": 200,
@@ -2153,6 +2153,22 @@
       "brief": "指AI代理学习其环境的内部表示，以便预测未来状态和规划行动的模型。",
       "source": "Agent1-早报-2026-11-03",
       "added_date": "2026-11-03",
+      "status": "pending"
+    },
+    {
+      "id": 453,
+      "term": "Avatar Intelligence",
+      "brief": "指用于驱动或体现虚拟化身的人工智能系统，通常专注于模拟人类交互和个性化。",
+      "source": "Agent1-早报-2026-11-04",
+      "added_date": "2026-11-04",
+      "status": "pending"
+    },
+    {
+      "id": 454,
+      "term": "Collaborative Intelligence Benchmark",
+      "brief": "一个标准化测试或框架，用于评估人工智能系统与人类或其他AI实体协同工作的性能。",
+      "source": "Agent1-早报-2026-11-04",
+      "added_date": "2026-11-04",
       "status": "pending"
     }
   ]
