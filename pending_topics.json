@@ -2202,6 +2202,56 @@
       "source": "Agent1-早报-2026-11-06",
       "added_date": "2026-11-06",
       "status": "pending"
+    },
+    {
+      "id": 248,
+      "term": "Model Context Protocol (MCP) / 模型上下文协议",
+      "module": "工程与应用层",
+      "brief": "一个连接AI模型与外部工具、文件和系统以实现标准化的开放协议。",
+      "source": "Vertex AI Search, SparkFire Solutions",
+      "why_important": "AI工具集成标准。",
+      "added_date": "2026-11-06",
+      "status": "pending"
+    },
+    {
+      "id": 249,
+      "term": "AI Orchestrator / AI编排器",
+      "module": "工程与应用层",
+      "brief": "协调和管理多个AI智能体、工具和任务的工作流层，或指代实现此功能的系统。",
+      "source": "Forbes, SparkFire Solutions",
+      "why_important": "复杂AI系统核心。",
+      "added_date": "2026-11-06",
+      "status": "pending"
+    },
+    {
+      "id": 250,
+      "term": "Open Weights (Model) / 开放权重模型",
+      "module": "前沿与趋势层",
+      "brief": "指公开分享已训练好的AI模型权重，而非完整的开源代码和数据，推动模型可访问性。",
+      "source": "YouTube (AI news)",
+      "why_important": "模型分发新模式。",
+      "added_date": "2026-11-06",
+      "status": "pending"
+    },
+    {
+      "id": 251,
+      "term": "Agent Harness / 智能体线束",
+      "module": "工程与应用层",
+      "brief": "智能体架构中的关键决策点，用于连接智能体与外部资源并决定任务成功率和API成本。",
+      "source": "AlphaSignal",
+      "why_important": "智能体系统组件。",
+      "added_date": "2026-11-06",
+      "status": "pending"
+    },
+    {
+      "id": 252,
+      "term": "Agile Deliberation / 敏捷审议",
+      "module": "前沿与趋势层",
+      "brief": "一种AI方法，通过AI智能体分解概念并迭代改进分类，尤其适用于模糊和主观的图像数据。",
+      "source": "AlphaSignal",
+      "why_important": "提升AI分类能力。",
+      "added_date": "2026-11-06",
+      "status": "pending"
     }
   ]
 }
