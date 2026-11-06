@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-05",
+  "last_updated": "2026-11-06",
   "pending": [
     {
       "id": 200,
@@ -2193,6 +2193,14 @@
       "brief": "一种受生物大脑结构和功能启发的计算架构，旨在模拟大脑的学习和处理机制以实现更高级的人工智能。",
       "source": "Agent1-早报-2026-11-05",
       "added_date": "2026-11-05",
+      "status": "pending"
+    },
+    {
+      "id": 458,
+      "term": "Token工厂",
+      "brief": "指用于生成、管理或处理AI模型中tokens的系统或机制，特别是在大型语言模型背景下。",
+      "source": "Agent1-早报-2026-11-06",
+      "added_date": "2026-11-06",
       "status": "pending"
     }
   ]
